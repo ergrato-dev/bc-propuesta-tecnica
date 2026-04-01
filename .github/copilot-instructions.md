@@ -470,7 +470,8 @@ Cuando trabajes en este proyecto:
 
 4. **Contextualización Colombia / SENA**
    - ✅ Usar referencias de costos del mercado TI colombiano (tarifas hora-consultor en COP, servicios cloud con precios locales)
-   - ✅ Mencionar herramientas accesibles gratuitamente: Google Workspace, LibreOffice, Draw.io, Miro (free tier), ProjectLibre
+   - ✅ Mencionar herramientas accesibles gratuitamente: Google Workspace, LibreOffice, Draw.io, Miro (free tier), ProjectLibre, ClickUp (free tier)
+   - ✅ Navegador recomendado: **Brave** o **Firefox** — ❌ nunca recomendar Google Chrome
    - ✅ Usar vocabulario SENA: aprendiz, instructor, ficha, trimestre, resultado de aprendizaje (RDA), evidencia de conocimiento/desempeño/producto
    - ✅ Referenciar normas NTC y competencias ADSO/Técnico en Programación cuando aplique
 
@@ -569,7 +570,8 @@ Debe incluir:
 | Draw.io / diagrams.net              | Diagramas UML, WBS, arquitectura, matrices | Gratuito |
 | Google Sheets / LibreOffice Calc    | Tablas de estimación y presupuesto         | Gratuito |
 | ProjectLibre                        | Cronogramas Gantt y gestión de recursos    | Gratuito |
-| GitHub Projects                     | Gestión ágil de tareas                     | Gratuito |
+| ClickUp (free tier)                 | Gestión ágil de tareas y proyecto completo | Gratuito |
+| GitHub Projects                     | Tableros kanban vinculados al repositorio  | Gratuito |
 | Google Slides / LibreOffice Impress | Presentaciones ejecutivas                  | Gratuito |
 | Miro (free tier)                    | Talleres colaborativos virtuales           | Gratuito |
 | Google Meet / Zoom                  | Simulación de reuniones con cliente        | Gratuito |

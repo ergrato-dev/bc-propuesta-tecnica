@@ -110,9 +110,12 @@ bootcamp/
 | Markdown + GitHub | Documentación con control de versiones | Gratuito |
 | Draw.io / diagrams.net | Diagramas UML, WBS, arquitectura, matrices | Gratuito |
 | Google Sheets / LibreOffice Calc | Tablas de estimación y presupuesto | Gratuito |
-| ProjectLibre / GitHub Projects | Cronogramas Gantt y gestión de recursos | Gratuito |
+| ProjectLibre | Cronogramas Gantt y gestión de recursos | Gratuito |
+| ClickUp (free tier) | Gestión ágil de tareas y proyecto colaborativo | Gratuito |
+| GitHub Projects | Tableros kanban vinculados al repositorio | Gratuito |
 | Google Slides / LibreOffice Impress | Presentaciones ejecutivas | Gratuito |
 | Miro (free tier) | Talleres colaborativos virtuales | Gratuito |
+| Brave / Firefox | Navegador recomendado | Gratuito |
 
 ---
 
@@ -123,6 +126,7 @@ bootcamp/
 - **Git** para control de versiones
 - **VS Code** (recomendado) con extensiones incluidas
 - Cuenta de **GitHub** activa
+- **Brave** o **Firefox** como navegador (recomendados)
 - Herramientas gratuitas listadas arriba
 
 ### 1. Clonar el Repositorio
