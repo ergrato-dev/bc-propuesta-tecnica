@@ -32,6 +32,8 @@ Tres palabras clave:
 
 ## 2. Proyecto vs. Operación Cotidiana
 
+![Comparación entre proyecto y operación cotidiana](../0-assets/02-proyecto-vs-operacion.svg)
+
 Una de las confusiones más comunes es creer que "mejorar el sistema" o "agregar una nueva función" es siempre un proyecto. No siempre lo es.
 
 | **Proyecto** | **Operación** |
@@ -50,6 +52,8 @@ Una de las confusiones más comunes es creer que "mejorar el sistema" o "agregar
 ---
 
 ## 3. Ciclo de Vida de un Proyecto
+
+![Ciclo de vida de un proyecto de software — 5 fases](../0-assets/01-ciclo-vida-proyecto.svg)
 
 Todo proyecto atraviesa fases predecibles. Conocerlas ayuda a planificar mejor y a saber en qué momento se construye cada parte.
 

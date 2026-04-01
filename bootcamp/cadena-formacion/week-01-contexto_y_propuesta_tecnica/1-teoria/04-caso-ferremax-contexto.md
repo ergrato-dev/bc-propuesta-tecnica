@@ -41,6 +41,8 @@ Tienen dos sedes:
 
 ## 3. El Problema (palabras del cliente)
 
+![FerreMax — situación actual y 5 problemas identificados](../0-assets/06-ferremax-problema.svg)
+
 > "Llevamos el inventario en Excel. Cada vendedor tiene su propio archivo. Cuando alguien vende algo en Fontibón, nos llaman por WhatsApp para que actualicemos el archivo en Kennedy. A veces nos olvidamos, y terminamos vendiendo productos que ya no tenemos. El mes pasado perdimos tres pedidos grandes porque no teníamos claro el stock real. También nos ha pasado que facturamos productos a precios desactualizados porque el vendedor usó un Excel viejo."
 
 **Problemas identificados:**

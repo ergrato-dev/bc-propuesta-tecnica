@@ -1,0 +1,98 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+  <rect width="900" height="560" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="700">Secciones de una Propuesta Técnica Profesional</text>
+  <text x="450" y="50" text-anchor="middle" fill="#8b949e" font-size="11">Cada semana del bootcamp construyes una sección — al final tienes la propuesta completa</text>
+
+  <!-- Header row labels -->
+  <text x="66" y="72" fill="#7d8590" font-size="10" font-weight="600">#</text>
+  <text x="110" y="72" fill="#7d8590" font-size="10" font-weight="600">SECCIÓN</text>
+  <text x="560" y="72" fill="#7d8590" font-size="10" font-weight="600">¿QUÉ RESPONDE?</text>
+  <text x="800" y="72" text-anchor="middle" fill="#7d8590" font-size="10" font-weight="600">SEMANA</text>
+  <line x1="30" y1="76" x2="870" y2="76" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Row 1: Contexto — CURRENT WEEK (highlighted) -->
+  <rect x="30" y="82" width="840" height="48" rx="5" fill="#0d2137" stroke="#1565C0" stroke-width="1.5"/>
+  <rect x="30" y="82" width="4" height="48" rx="2" fill="#1565C0"/>
+  <text x="66" y="112" fill="#58a6ff" font-size="13" font-weight="700">1</text>
+  <text x="110" y="101" fill="#58a6ff" font-size="11" font-weight="700">Contexto y Justificación del Proyecto</text>
+  <text x="110" y="118" fill="#7d8590" font-size="10">¿Cuál es el problema? ¿Por qué vale la pena resolverlo?</text>
+  <text x="560" y="101" fill="#7d8590" font-size="10">Quién es el cliente · Cuál es la necesidad</text>
+  <text x="560" y="116" fill="#7d8590" font-size="10">Por qué es urgente y relevante</text>
+  <rect x="760" y="90" width="110" height="28" rx="12" fill="#1565C0"/>
+  <text x="815" y="109" text-anchor="middle" fill="white" font-size="10" font-weight="700">Semana 1 ←</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="138" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="138" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="168" fill="#8b949e" font-size="13" font-weight="700">2</text>
+  <text x="110" y="157" fill="#e6edf3" font-size="11" font-weight="600">Requisitos Funcionales y No Funcionales</text>
+  <text x="110" y="174" fill="#7d8590" font-size="10">¿Qué debe HACER el sistema? ¿Cómo debe COMPORTARSE?</text>
+  <text x="560" y="162" fill="#7d8590" font-size="10">Lista de RF y RNF priorizados</text>
+  <rect x="760" y="146" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="165" text-anchor="middle" fill="#8b949e" font-size="10">Semana 2</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="194" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="194" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="224" fill="#8b949e" font-size="13" font-weight="700">3</text>
+  <text x="110" y="213" fill="#e6edf3" font-size="11" font-weight="600">Alcance y Límites del Proyecto</text>
+  <text x="110" y="230" fill="#7d8590" font-size="10">¿Qué SÍ incluye? ¿Qué NO incluye? ¿Cuáles son los supuestos?</text>
+  <text x="560" y="218" fill="#7d8590" font-size="10">EDT / WBS simplificado</text>
+  <rect x="760" y="202" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="221" text-anchor="middle" fill="#8b949e" font-size="10">Semana 3</text>
+
+  <!-- Row 4 -->
+  <rect x="30" y="250" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="250" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="280" fill="#8b949e" font-size="13" font-weight="700">4</text>
+  <text x="110" y="269" fill="#e6edf3" font-size="11" font-weight="600">Técnicas de Estimación Aplicadas</text>
+  <text x="110" y="286" fill="#7d8590" font-size="10">¿Cómo estimé el tamaño del proyecto? ¿Qué técnica usé?</text>
+  <text x="560" y="274" fill="#7d8590" font-size="10">Analogía · Delphi · T-shirt · Planning Poker</text>
+  <rect x="760" y="258" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="277" text-anchor="middle" fill="#8b949e" font-size="10">Semana 4</text>
+
+  <!-- Row 5 -->
+  <rect x="30" y="306" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="306" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="336" fill="#8b949e" font-size="13" font-weight="700">5</text>
+  <text x="110" y="325" fill="#e6edf3" font-size="11" font-weight="600">Estimación de Esfuerzo y Tiempo</text>
+  <text x="110" y="342" fill="#7d8590" font-size="10">¿Cuántas horas requiere? ¿Cuánto tiempo tomará? ¿Quiénes trabajan?</text>
+  <text x="560" y="330" fill="#7d8590" font-size="10">Story Points · Cronograma Gantt</text>
+  <rect x="760" y="314" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="333" text-anchor="middle" fill="#8b949e" font-size="10">Semana 5</text>
+
+  <!-- Row 6 -->
+  <rect x="30" y="362" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="362" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="392" fill="#8b949e" font-size="13" font-weight="700">6</text>
+  <text x="110" y="381" fill="#e6edf3" font-size="11" font-weight="600">Presupuesto y Plan de Costos</text>
+  <text x="110" y="398" fill="#7d8590" font-size="10">¿Cuánto cuesta en COP? ¿Cómo se justifica cada ítem?</text>
+  <text x="560" y="386" fill="#7d8590" font-size="10">Mano de obra · Infraestructura · Licencias</text>
+  <rect x="760" y="370" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="389" text-anchor="middle" fill="#8b949e" font-size="10">Semana 6</text>
+
+  <!-- Row 7 -->
+  <rect x="30" y="418" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="418" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="448" fill="#8b949e" font-size="13" font-weight="700">7</text>
+  <text x="110" y="437" fill="#e6edf3" font-size="11" font-weight="600">Metodología, Tecnologías y Condiciones</text>
+  <text x="110" y="454" fill="#7d8590" font-size="10">¿Cómo se desarrollará? ¿Con qué herramientas? ¿Cuáles son las garantías?</text>
+  <text x="560" y="442" fill="#7d8590" font-size="10">Stack tecnológico · Forma de pago · SLA</text>
+  <rect x="760" y="426" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="445" text-anchor="middle" fill="#8b949e" font-size="10">Semana 7-8</text>
+
+  <!-- Row 8 -->
+  <rect x="30" y="474" width="840" height="48" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="30" y="474" width="4" height="48" rx="2" fill="#3d444d"/>
+  <text x="66" y="504" fill="#8b949e" font-size="13" font-weight="700">8</text>
+  <text x="110" y="493" fill="#e6edf3" font-size="11" font-weight="600">Gestión de Riesgos</text>
+  <text x="110" y="510" fill="#7d8590" font-size="10">¿Qué puede salir mal? ¿Cómo lo prevenimos o manejamos?</text>
+  <text x="560" y="498" fill="#7d8590" font-size="10">Matriz de probabilidad e impacto</text>
+  <rect x="760" y="482" width="110" height="28" rx="12" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="815" y="501" text-anchor="middle" fill="#8b949e" font-size="10">Semana 8</text>
+
+  <!-- Footer -->
+  <text x="450" y="548" text-anchor="middle" fill="#484f58" font-size="10">Bootcamp Propuesta Técnica — Cadena de Formación · 9 semanas · Construye una sección por semana</text>
+</svg>

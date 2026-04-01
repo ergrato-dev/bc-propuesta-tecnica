@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+  <rect width="900" height="360" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="700">Proyecto vs. Operación Cotidiana</text>
+  <text x="450" y="50" text-anchor="middle" fill="#8b949e" font-size="11">¿Por qué necesito una propuesta técnica si "solo es una mejora"?</text>
+
+  <!-- Left panel: PROYECTO -->
+  <rect x="30" y="64" width="380" height="268" rx="10" fill="#0d2137" stroke="#1565C0" stroke-width="2"/>
+  <rect x="30" y="64" width="380" height="46" rx="10" fill="#1565C0"/>
+  <rect x="30" y="92" width="380" height="18" fill="#1565C0"/>
+  <text x="220" y="95" text-anchor="middle" fill="white" font-size="15" font-weight="700">PROYECTO</text>
+  <text x="220" y="126" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600">Esfuerzo temporal con resultado único</text>
+
+  <!-- Project rows -->
+  <rect x="46" y="140" width="348" height="28" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="62" y="159" fill="#e6edf3" font-size="11">⏱  Temporal — tiene fecha de inicio y fin</text>
+
+  <rect x="46" y="176" width="348" height="28" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="62" y="195" fill="#e6edf3" font-size="11">✦  Produce algo nuevo que no existía antes</text>
+
+  <rect x="46" y="212" width="348" height="28" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="62" y="231" fill="#e6edf3" font-size="11">👥  Equipo temporal asignado al proyecto</text>
+
+  <rect x="46" y="248" width="348" height="28" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="62" y="267" fill="#e6edf3" font-size="11">📄  Requiere propuesta técnica y presupuesto</text>
+
+  <!-- FerreMax example for project -->
+  <rect x="46" y="286" width="348" height="34" rx="4" fill="#1565C0" fill-opacity="0.15" stroke="#1565C0" stroke-width="1"/>
+  <text x="220" y="299" text-anchor="middle" fill="#58a6ff" font-size="10" font-weight="600">Ejemplo FerreMax:</text>
+  <text x="220" y="312" text-anchor="middle" fill="#7d8590" font-size="10">Desarrollar el sistema de inventario web</text>
+
+  <!-- VS divider -->
+  <circle cx="450" cy="198" r="24" fill="#161b22" stroke="#3d444d" stroke-width="2"/>
+  <text x="450" y="204" text-anchor="middle" fill="#e6edf3" font-size="13" font-weight="700">VS</text>
+
+  <!-- Right panel: OPERACIÓN -->
+  <rect x="490" y="64" width="380" height="268" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="490" y="64" width="380" height="46" rx="10" fill="#21262d"/>
+  <rect x="490" y="92" width="380" height="18" fill="#21262d"/>
+  <text x="680" y="95" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="700">OPERACIÓN</text>
+  <text x="680" y="126" text-anchor="middle" fill="#8b949e" font-size="11" font-weight="600">Actividad continua y repetitiva</text>
+
+  <!-- Operation rows -->
+  <rect x="506" y="140" width="348" height="28" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="522" y="159" fill="#7d8590" font-size="11">♾  Continua — no tiene fecha de fin</text>
+
+  <rect x="506" y="176" width="348" height="28" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="522" y="195" fill="#7d8590" font-size="11">↺  Mantiene lo que ya existe</text>
+
+  <rect x="506" y="212" width="348" height="28" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="522" y="231" fill="#7d8590" font-size="11">👤  Equipo permanente y estable</text>
+
+  <rect x="506" y="248" width="348" height="28" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="522" y="267" fill="#7d8590" font-size="11">📋  Hace parte del mantenimiento rutinario</text>
+
+  <!-- FerreMax example for operation -->
+  <rect x="506" y="286" width="348" height="34" rx="4" fill="#21262d" stroke="#3d444d" stroke-width="1"/>
+  <text x="680" y="299" text-anchor="middle" fill="#8b949e" font-size="10" font-weight="600">Ejemplo FerreMax:</text>
+  <text x="680" y="312" text-anchor="middle" fill="#7d8590" font-size="10">Agregar precios nuevos al inventario cada semana</text>
+
+  <!-- Footer -->
+  <text x="450" y="348" text-anchor="middle" fill="#484f58" font-size="10">Bootcamp Propuesta Técnica — Cadena de Formación · Semana 1</text>
+</svg>

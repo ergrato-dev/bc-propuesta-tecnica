@@ -1,0 +1,86 @@
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+  <rect width="900" height="420" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="28" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="700">FerreMax S.A.S. — El Problema que Origina el Proyecto</text>
+  <text x="450" y="48" text-anchor="middle" fill="#8b949e" font-size="11">Bogotá D.C. · Ferretería y suministros · ~25 empleados · 2 sedes</text>
+
+  <!-- Left panel: SITUACIÓN ACTUAL -->
+  <rect x="30" y="62" width="380" height="310" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="30" y="62" width="380" height="36" rx="10" fill="#21262d"/>
+  <rect x="30" y="86" width="380" height="12" fill="#21262d"/>
+  <text x="220" y="87" text-anchor="middle" fill="#e6edf3" font-size="12" font-weight="700">📂  Situación Actual</text>
+
+  <!-- Excel block -->
+  <rect x="46" y="108" width="348" height="68" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="46" y="108" width="6" height="68" rx="3" fill="#2ea043"/>
+  <text x="180" y="127" text-anchor="middle" fill="#e6edf3" font-size="11" font-weight="600">Microsoft Excel</text>
+  <text x="180" y="144" text-anchor="middle" fill="#7d8590" font-size="10">Archivo "inventario_kennedy_V3_FINAL.xlsx"</text>
+  <text x="180" y="160" text-anchor="middle" fill="#7d8590" font-size="10">Archivo "inventario_fontibon_copia2.xlsx"</text>
+
+  <!-- WhatsApp block -->
+  <rect x="46" y="184" width="348" height="54" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="46" y="184" width="6" height="54" rx="3" fill="#25d366"/>
+  <text x="180" y="202" text-anchor="middle" fill="#e6edf3" font-size="11" font-weight="600">WhatsApp Business</text>
+  <text x="180" y="219" text-anchor="middle" fill="#7d8590" font-size="10">"Oye, vendí 3 llaves de 1/2, descuéntalo del Excel"</text>
+
+  <!-- Manual billing block -->
+  <rect x="46" y="246" width="348" height="54" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="46" y="246" width="6" height="54" rx="3" fill="#d29922"/>
+  <text x="180" y="264" text-anchor="middle" fill="#e6edf3" font-size="11" font-weight="600">Facturación Manual en Papel</text>
+  <text x="180" y="281" text-anchor="middle" fill="#7d8590" font-size="10">Precios actualizados "a ojo" según el Excel del día</text>
+
+  <!-- vendor count -->
+  <rect x="46" y="308" width="348" height="50" rx="6" fill="#1f1505" stroke="#d29922" stroke-width="1"/>
+  <text x="220" y="327" text-anchor="middle" fill="#d29922" font-size="11" font-weight="600">⚠  Sin trazabilidad ni historial de movimientos</text>
+  <text x="220" y="344" text-anchor="middle" fill="#7d8590" font-size="10">Imposible saber quién vendió qué, cuándo y a qué precio</text>
+
+  <!-- Center arrow -->
+  <line x1="418" y1="216" x2="444" y2="216" stroke="#f85149" stroke-width="2.5"/>
+  <polygon points="440,210 454,216 440,222" fill="#f85149"/>
+  <text x="436" y="208" text-anchor="middle" fill="#f85149" font-size="9" font-weight="700">CAUSA</text>
+
+  <!-- Right panel: PROBLEMAS IDENTIFICADOS -->
+  <rect x="454" y="62" width="416" height="310" rx="10" fill="#1a0606" stroke="#f85149" stroke-width="1.5"/>
+  <rect x="454" y="62" width="416" height="36" rx="10" fill="#3d0c0c"/>
+  <rect x="454" y="86" width="416" height="12" fill="#3d0c0c"/>
+  <text x="662" y="87" text-anchor="middle" fill="#e6edf3" font-size="12" font-weight="700">⚠  5 Problemas Identificados</text>
+
+  <!-- Problem rows -->
+  <rect x="470" y="108" width="384" height="44" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="470" y="108" width="4" height="44" fill="#f85149"/>
+  <text x="486" y="126" fill="#f85149" font-size="10" font-weight="700">P-01</text>
+  <text x="540" y="126" fill="#e6edf3" font-size="10" font-weight="600">Inventario desactualizado entre sedes</text>
+  <text x="540" y="141" fill="#7d8590" font-size="9.5">Excel sin sincronización → datos contradictorios</text>
+
+  <rect x="470" y="160" width="384" height="44" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="470" y="160" width="4" height="44" fill="#f85149"/>
+  <text x="486" y="178" fill="#f85149" font-size="10" font-weight="700">P-02</text>
+  <text x="540" y="178" fill="#e6edf3" font-size="10" font-weight="600">Ventas de productos sin stock real</text>
+  <text x="540" y="193" fill="#7d8590" font-size="9.5">3 pedidos perdidos en marzo 2026 (~$2.400.000)</text>
+
+  <rect x="470" y="212" width="384" height="44" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="470" y="212" width="4" height="44" fill="#f85149"/>
+  <text x="486" y="230" fill="#f85149" font-size="10" font-weight="700">P-03</text>
+  <text x="540" y="230" fill="#e6edf3" font-size="10" font-weight="600">Facturación con precios desactualizados</text>
+  <text x="540" y="245" fill="#7d8590" font-size="9.5">Vendedores usan archivos Excel con versiones distintas</text>
+
+  <rect x="470" y="264" width="384" height="44" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="470" y="264" width="4" height="44" fill="#f85149"/>
+  <text x="486" y="282" fill="#f85149" font-size="10" font-weight="700">P-04</text>
+  <text x="540" y="282" fill="#e6edf3" font-size="10" font-weight="600">Comunicación informal (WhatsApp)</text>
+  <text x="540" y="297" fill="#7d8590" font-size="9.5">Mensajes perdidos · Sin trazabilidad · Errores humanos</text>
+
+  <rect x="470" y="316" width="384" height="44" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="470" y="316" width="4" height="44" fill="#f85149"/>
+  <text x="486" y="334" fill="#f85149" font-size="10" font-weight="700">P-05</text>
+  <text x="540" y="334" fill="#e6edf3" font-size="10" font-weight="600">Sin historial ni auditoría de movimientos</text>
+  <text x="540" y="349" fill="#7d8590" font-size="9.5">No se detectan mermas ni errores de inventario</text>
+
+  <!-- Bottom note -->
+  <rect x="30" y="384" width="840" height="24" rx="5" fill="#0d2137" stroke="#1565C0" stroke-width="1"/>
+  <text x="450" y="400" text-anchor="middle" fill="#58a6ff" font-size="10" font-weight="600">★  Estos 5 problemas justifican el desarrollo del sistema de inventario → Base de la propuesta técnica</text>
+
+  <!-- Footer -->
+  <text x="450" y="416" text-anchor="middle" fill="#484f58" font-size="10">Caso FerreMax · Bootcamp Propuesta Técnica — Cadena de Formación · Semana 1</text>
+</svg>

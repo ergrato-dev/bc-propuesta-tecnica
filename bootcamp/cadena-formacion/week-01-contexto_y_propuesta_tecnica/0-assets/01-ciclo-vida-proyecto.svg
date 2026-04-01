@@ -1,0 +1,98 @@
+<svg viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+  <rect width="900" height="360" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="28" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="700">Ciclo de Vida de un Proyecto de Software</text>
+  <text x="450" y="46" text-anchor="middle" fill="#8b949e" font-size="11">Adaptado del PMBOK® Guide — Project Management Institute</text>
+
+  <!-- Phase 1: INICIO (x=55, w=142) -->
+  <rect x="55" y="70" width="142" height="200" rx="8" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="55" y="70" width="142" height="38" rx="8" fill="#1565C0"/>
+  <rect x="55" y="96" width="142" height="12" fill="#1565C0"/>
+  <text x="72" y="95" fill="white" font-size="19" font-weight="700">1</text>
+  <text x="126" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="700">INICIO</text>
+  <text x="126" y="122" text-anchor="middle" fill="#7d8590" font-size="10.5">Define el problema</text>
+  <line x1="72" y1="133" x2="180" y2="133" stroke="#21262d" stroke-width="1"/>
+  <text x="72" y="150" fill="#7d8590" font-size="10">• Identifica la necesidad</text>
+  <text x="72" y="166" fill="#7d8590" font-size="10">• Evalúa la viabilidad</text>
+  <text x="72" y="182" fill="#7d8590" font-size="10">• Mapea stakeholders</text>
+  <text x="72" y="198" fill="#7d8590" font-size="10">• Elabora acta de inicio</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="197" y1="170" x2="209" y2="170" stroke="#3d444d" stroke-width="2"/>
+  <polygon points="209,165 219,170 209,175" fill="#3d444d"/>
+
+  <!-- Phase 2: PLANIFICACIÓN (x=219, w=142) — HIGHLIGHTED -->
+  <rect x="219" y="62" width="142" height="240" rx="8" fill="#0d1f33" stroke="#1565C0" stroke-width="2"/>
+  <rect x="219" y="62" width="142" height="38" rx="8" fill="#1565C0"/>
+  <rect x="219" y="88" width="142" height="12" fill="#1565C0"/>
+  <text x="236" y="87" fill="white" font-size="19" font-weight="700">2</text>
+  <text x="290" y="87" text-anchor="middle" fill="white" font-size="11" font-weight="700">PLANIFICACIÓN</text>
+  <text x="290" y="116" text-anchor="middle" fill="#7d8590" font-size="10.5">Diseña el plan</text>
+  <line x1="236" y1="127" x2="344" y2="127" stroke="#1565C0" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="236" y="144" fill="#7d8590" font-size="10">• Define el alcance</text>
+  <text x="236" y="160" fill="#7d8590" font-size="10">• Estima tiempo y costo</text>
+  <text x="236" y="176" fill="#7d8590" font-size="10">• Identifica los riesgos</text>
+  <text x="236" y="192" fill="#7d8590" font-size="10">• Crea el cronograma</text>
+  <!-- Badge -->
+  <rect x="229" y="206" width="122" height="84" rx="5" fill="#1565C0" fill-opacity="0.12" stroke="#1565C0" stroke-width="1"/>
+  <text x="290" y="225" text-anchor="middle" fill="#58a6ff" font-size="9.5" font-weight="700">★ AQUÍ SE ELABORA</text>
+  <text x="290" y="240" text-anchor="middle" fill="#58a6ff" font-size="9.5" font-weight="700">LA PROPUESTA TÉCNICA</text>
+  <text x="290" y="260" text-anchor="middle" fill="#7d8590" font-size="9">Antes de escribir</text>
+  <text x="290" y="274" text-anchor="middle" fill="#7d8590" font-size="9">una línea de código</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="361" y1="170" x2="373" y2="170" stroke="#3d444d" stroke-width="2"/>
+  <polygon points="373,165 383,170 373,175" fill="#3d444d"/>
+
+  <!-- Phase 3: EJECUCIÓN (x=383, w=142) -->
+  <rect x="383" y="70" width="142" height="200" rx="8" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="383" y="70" width="142" height="38" rx="8" fill="#1565C0"/>
+  <rect x="383" y="96" width="142" height="12" fill="#1565C0"/>
+  <text x="400" y="95" fill="white" font-size="19" font-weight="700">3</text>
+  <text x="454" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="700">EJECUCIÓN</text>
+  <text x="454" y="122" text-anchor="middle" fill="#7d8590" font-size="10.5">Construye lo planeado</text>
+  <line x1="400" y1="133" x2="508" y2="133" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="150" fill="#7d8590" font-size="10">• Desarrolla el software</text>
+  <text x="400" y="166" fill="#7d8590" font-size="10">• Reuniones de avance</text>
+  <text x="400" y="182" fill="#7d8590" font-size="10">• Gestiona cambios</text>
+  <text x="400" y="198" fill="#7d8590" font-size="10">• Entregables parciales</text>
+
+  <!-- Arrow 3→4 -->
+  <line x1="525" y1="170" x2="537" y2="170" stroke="#3d444d" stroke-width="2"/>
+  <polygon points="537,165 547,170 537,175" fill="#3d444d"/>
+
+  <!-- Phase 4: SEGUIMIENTO (x=547, w=142) -->
+  <rect x="547" y="70" width="142" height="200" rx="8" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="547" y="70" width="142" height="38" rx="8" fill="#1565C0"/>
+  <rect x="547" y="96" width="142" height="12" fill="#1565C0"/>
+  <text x="564" y="95" fill="white" font-size="19" font-weight="700">4</text>
+  <text x="618" y="88" text-anchor="middle" fill="white" font-size="11" font-weight="700">SEGUIMIENTO</text>
+  <text x="618" y="101" text-anchor="middle" fill="white" font-size="11" font-weight="700">Y CONTROL</text>
+  <text x="618" y="122" text-anchor="middle" fill="#7d8590" font-size="10.5">Controla el avance</text>
+  <line x1="564" y1="133" x2="672" y2="133" stroke="#21262d" stroke-width="1"/>
+  <text x="564" y="150" fill="#7d8590" font-size="10">• Verifica el avance</text>
+  <text x="564" y="166" fill="#7d8590" font-size="10">• Detecta desviaciones</text>
+  <text x="564" y="182" fill="#7d8590" font-size="10">• Acciones correctivas</text>
+  <text x="564" y="198" fill="#7d8590" font-size="10">• Reportes al sponsor</text>
+
+  <!-- Arrow 4→5 -->
+  <line x1="689" y1="170" x2="701" y2="170" stroke="#3d444d" stroke-width="2"/>
+  <polygon points="701,165 711,170 701,175" fill="#3d444d"/>
+
+  <!-- Phase 5: CIERRE (x=711, w=134) right=845 -->
+  <rect x="711" y="70" width="134" height="200" rx="8" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+  <rect x="711" y="70" width="134" height="38" rx="8" fill="#1565C0"/>
+  <rect x="711" y="96" width="134" height="12" fill="#1565C0"/>
+  <text x="728" y="95" fill="white" font-size="19" font-weight="700">5</text>
+  <text x="778" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="700">CIERRE</text>
+  <text x="778" y="122" text-anchor="middle" fill="#7d8590" font-size="10.5">Entrega el resultado</text>
+  <line x1="728" y1="133" x2="828" y2="133" stroke="#21262d" stroke-width="1"/>
+  <text x="728" y="150" fill="#7d8590" font-size="10">• Entrega el producto</text>
+  <text x="728" y="166" fill="#7d8590" font-size="10">• Documentación final</text>
+  <text x="728" y="182" fill="#7d8590" font-size="10">• Lecciones aprendidas</text>
+  <text x="728" y="198" fill="#7d8590" font-size="10">• Cierra contratos</text>
+
+  <!-- Footer -->
+  <text x="450" y="348" text-anchor="middle" fill="#484f58" font-size="10">PMBOK® Guide · Project Management Institute · Bootcamp Propuesta Técnica — Cadena de Formación · Semana 1</text>
+</svg>

@@ -101,6 +101,8 @@ Un **stakeholder** (parte interesada) es cualquier persona o grupo que:
 
 ## 3. Mapa de Stakeholders — FerreMax
 
+![Mapa de roles y stakeholders del proyecto — caso FerreMax](../0-assets/03-roles-del-proyecto.svg)
+
 | Nombre | Cargo | Rol en el Proyecto | Nivel de Influencia |
 |--------|-------|-------------------|---------------------|
 | Carlos Mendoza | Gerente General | Sponsor / Cliente | Alto |

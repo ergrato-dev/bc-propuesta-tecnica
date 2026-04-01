@@ -48,6 +48,8 @@ Es el documento que el cliente revisa y aprueba **antes de que empiece el desarr
 
 ## 3. Cotización vs. Propuesta Técnica vs. Contrato
 
+![Cotización, Propuesta Técnica y Contrato — diferencias y flujo](../0-assets/04-documentos-proyecto.svg)
+
 Tres documentos diferentes que se confunden constantemente:
 
 | Documento | Qué contiene | Cuándo se usa | Nivel de detalle |
@@ -66,6 +68,8 @@ Cliente consulta ──▶ Cotización ──▶ Propuesta técnica ──▶ Co
 ---
 
 ## 4. Secciones de una Propuesta Técnica Profesional
+
+![Hoja de ruta del bootcamp — 8 secciones de la propuesta técnica](../0-assets/05-secciones-propuesta-tecnica.svg)
 
 Una propuesta técnica completa tiene estas secciones (las construirás semana a semana):
 
