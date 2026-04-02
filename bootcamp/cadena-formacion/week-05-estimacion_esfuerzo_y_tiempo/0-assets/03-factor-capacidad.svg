@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="36" font-family="Inter, Roboto, sans-serif" font-size="17" font-weight="700" fill="#e6edf3" text-anchor="middle">Factor de Capacidad — ¿Cuánto trabaja realmente el equipo?</text>
+  <line x1="60" y1="46" x2="740" y2="46" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- SECTION: The 8-hour day myth -->
+  <text x="400" y="74" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">Un día de 8 horas... ¿cuántas son de trabajo efectivo?</text>
+
+  <!-- 8 hours bar -->
+  <rect x="80" y="84" width="640" height="34" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="72" y="106" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">8h</text>
+  <!-- descansos: 0.5h -->
+  <rect x="80" y="84" width="40" height="34" rx="4" fill="#3d1818"/>
+  <text x="100" y="106" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#ef4444" text-anchor="middle">0.5h</text>
+  <!-- reuniones: 1h -->
+  <rect x="122" y="84" width="80" height="34" fill="#2d1f1f"/>
+  <text x="162" y="106" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#f97316" text-anchor="middle">1h reuniones</text>
+  <!-- contexto/interrupciones 0.5h -->
+  <rect x="204" y="84" width="40" height="34" fill="#1e1a2e"/>
+  <text x="224" y="106" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#a78bfa" text-anchor="middle">0.5h</text>
+  <!-- efectivo: 6h -->
+  <rect x="246" y="84" width="474" height="34" rx="4" fill="#1565C0"/>
+  <text x="483" y="106" font-family="Inter, Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">≈ 6 horas efectivas de 8 = 75% de capacidad</text>
+
+  <!-- Labels under bar -->
+  <text x="100" y="130" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#ef4444" text-anchor="middle">Descansos</text>
+  <text x="162" y="130" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#f97316" text-anchor="middle">Reuniones</text>
+  <text x="224" y="130" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#a78bfa" text-anchor="middle">Interrupciones</text>
+  <text x="483" y="130" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#42a5f5" text-anchor="middle">Trabajo efectivo de desarrollo</text>
+
+  <!-- SECTION: Factor table by profile -->
+  <text x="400" y="162" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">Factor de capacidad según el perfil del equipo</text>
+
+  <!-- Table header -->
+  <rect x="60" y="172" width="680" height="28" rx="4" fill="#1565C0"/>
+  <text x="180" y="191" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">Perfil / Situación</text>
+  <text x="430" y="191" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">Factor de capacidad</text>
+  <text x="630" y="191" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">Motivo</text>
+
+  <!-- Table rows -->
+  <!-- Row 1 -->
+  <rect x="60" y="202" width="680" height="28" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="180" y="221" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#c9d1d9" text-anchor="middle">Equipo dedicado (tiempo completo)</text>
+  <rect x="390" y="207" width="80" height="18" rx="3" fill="#166534"/>
+  <text x="430" y="220" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#86efac" text-anchor="middle">80 – 85%</text>
+  <text x="630" y="221" font-family="Inter, Roboto, sans-serif" font-size="9.5" fill="#8b949e" text-anchor="middle">Pocas interrupciones</text>
+  <!-- Row 2 -->
+  <rect x="60" y="232" width="680" height="28" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="180" y="251" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#c9d1d9" text-anchor="middle">Dev con otros proyectos simultáneos</text>
+  <rect x="390" y="237" width="80" height="18" rx="3" fill="#78350f"/>
+  <text x="430" y="250" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="middle">60 – 70%</text>
+  <text x="630" y="251" font-family="Inter, Roboto, sans-serif" font-size="9.5" fill="#8b949e" text-anchor="middle">Cambio de contexto frecuente</text>
+  <!-- Row 3 -->
+  <rect x="60" y="262" width="680" height="28" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="180" y="281" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#c9d1d9" text-anchor="middle">Aprendiz SENA (proyecto de formación)</text>
+  <rect x="390" y="267" width="80" height="18" rx="3" fill="#7c2d12"/>
+  <text x="430" y="280" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fca5a5" text-anchor="middle">50 – 65%</text>
+  <text x="630" y="281" font-family="Inter, Roboto, sans-serif" font-size="9.5" fill="#8b949e" text-anchor="middle">Clases, pausas, aprendizaje</text>
+  <!-- Row 4 -->
+  <rect x="60" y="292" width="680" height="28" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="180" y="311" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#c9d1d9" text-anchor="middle">Dev junior recién incorporado al equipo</text>
+  <rect x="390" y="297" width="80" height="18" rx="3" fill="#78350f"/>
+  <text x="430" y="310" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="middle">55 – 70%</text>
+  <text x="630" y="311" font-family="Inter, Roboto, sans-serif" font-size="9.5" fill="#8b949e" text-anchor="middle">Curva de aprendizaje</text>
+  <!-- Row 5 -->
+  <rect x="60" y="322" width="680" height="28" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="180" y="341" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#c9d1d9" text-anchor="middle">Equipo nuevo / tecnología desconocida</text>
+  <rect x="390" y="327" width="80" height="18" rx="3" fill="#7c2d12"/>
+  <text x="430" y="340" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fca5a5" text-anchor="middle">45 – 60%</text>
+  <text x="630" y="341" font-family="Inter, Roboto, sans-serif" font-size="9.5" fill="#8b949e" text-anchor="middle">Ramp-up + investigación</text>
+
+  <!-- SECTION: Formula -->
+  <text x="400" y="380" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">Fórmula completa de duración</text>
+
+  <rect x="100" y="390" width="600" height="54" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="400" y="412" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#42a5f5" text-anchor="middle">Duración = Esfuerzo ÷ (Personas × Factor_cap)</text>
+  <text x="400" y="432" font-family="'Courier New', monospace" font-size="13" fill="#fb923c" text-anchor="middle">FerreMax → 194 ÷ (2 × 0.80) = 121 días ≈ 24 semanas</text>
+
+  <!-- Footer note -->
+  <rect x="60" y="456" width="680" height="34" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="470" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">El factor de capacidad NO es una penalización — es una garantía de que tu estimación refleja</text>
+  <text x="400" y="484" font-family="Inter, Roboto, sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">la realidad. Un equipo 100% eficiente todo el día no existe en la práctica.</text>
+</svg>

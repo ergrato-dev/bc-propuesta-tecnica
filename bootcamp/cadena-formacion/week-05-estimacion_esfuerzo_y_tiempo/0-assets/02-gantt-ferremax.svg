@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 500" width="860" height="500">
+  <!-- Background -->
+  <rect width="860" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="430" y="36" font-family="Inter, Roboto, sans-serif" font-size="17" font-weight="700" fill="#e6edf3" text-anchor="middle">Cronograma FerreMax — Diagrama de Gantt (15 semanas)</text>
+  <line x1="60" y1="46" x2="800" y2="46" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Column headers -->
+  <!-- Module column -->
+  <rect x="60" y="56" width="195" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="157" y="75" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#8b949e" text-anchor="middle">Módulo / Actividad</text>
+
+  <!-- Week headers S1-S15 -->
+  <!-- Each week cell: width 38, start at x=258 -->
+  <rect x="258" y="56" width="570" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Individual week labels -->
+  <text x="277" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S1</text>
+  <text x="315" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S2</text>
+  <text x="353" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S3</text>
+  <text x="391" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S4</text>
+  <text x="429" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S5</text>
+  <text x="467" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S6</text>
+  <text x="505" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S7</text>
+  <text x="543" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S8</text>
+  <text x="581" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S9</text>
+  <text x="619" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S10</text>
+  <text x="657" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S11</text>
+  <text x="695" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S12</text>
+  <text x="733" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S13</text>
+  <text x="771" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S14</text>
+  <text x="809" y="75" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">S15</text>
+
+  <!-- Vertical grid lines -->
+  <line x1="258" y1="56" x2="258" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="296" y1="56" x2="296" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="334" y1="56" x2="334" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="372" y1="56" x2="372" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="410" y1="56" x2="410" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="448" y1="56" x2="448" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="486" y1="56" x2="486" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="524" y1="56" x2="524" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="562" y1="56" x2="562" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="600" y1="56" x2="600" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="638" y1="56" x2="638" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="676" y1="56" x2="676" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="714" y1="56" x2="714" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="752" y1="56" x2="752" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="790" y1="56" x2="790" y2="470" stroke="#21262d" stroke-width="1"/>
+  <line x1="828" y1="56" x2="828" y2="470" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ROW 1: BD + Arquitectura (S1) -->
+  <rect x="60" y="88" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="105" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">M0 BD + Arquitectura (A+B)</text>
+  <!-- S1 bar -->
+  <rect x="262" y="92" width="30" height="18" rx="3" fill="#1565C0"/>
+
+  <!-- ROW 2: Autenticación (S2-S5) — RUTA CRÍTICA -->
+  <rect x="60" y="116" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="133" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f97316">M1 Autenticación (Dev A) ⚑</text>
+  <!-- S2-S5 bar -->
+  <rect x="300" y="120" width="144" height="18" rx="3" fill="#f97316"/>
+
+  <!-- ROW 3: Inventario (S2-S9) — RUTA CRÍTICA -->
+  <rect x="60" y="144" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="161" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f97316">M2 Inventario (Dev B) ⚑</text>
+  <!-- S2-S9 bar -->
+  <rect x="300" y="148" width="296" height="18" rx="3" fill="#f97316" opacity="0.8"/>
+
+  <!-- ROW 4: Clientes (S6) -->
+  <rect x="60" y="172" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="189" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">M3 Clientes (Dev A)</text>
+  <!-- S6 bar -->
+  <rect x="490" y="176" width="30" height="18" rx="3" fill="#1565C0"/>
+
+  <!-- ROW 5: Ventas (S8-S10) — RUTA CRÍTICA -->
+  <rect x="60" y="200" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="217" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f97316">M4 Ventas (Dev A + Dev B) ⚑</text>
+  <!-- S8-S10 bar -->
+  <rect x="528" y="204" width="106" height="18" rx="3" fill="#f97316" opacity="0.75"/>
+
+  <!-- ROW 6: Reportes (S11-S12) -->
+  <rect x="60" y="228" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="245" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">M5 Reportes (Dev A)</text>
+  <!-- S11-S12 bar -->
+  <rect x="642" y="232" width="68" height="18" rx="3" fill="#1565C0"/>
+
+  <!-- ROW 7: Config y Docs (S11-S12) -->
+  <rect x="60" y="256" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="273" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">M6 Config. y Docs (Dev B)</text>
+  <!-- S11-S12 bar -->
+  <rect x="642" y="260" width="68" height="18" rx="3" fill="#1565C0" opacity="0.7"/>
+
+  <!-- ROW 8: Pruebas integración (S13-S14) RUTA CRÍTICA -->
+  <rect x="60" y="284" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="301" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f97316">Pruebas integración (A+B) ⚑</text>
+  <!-- S13-S14 bar -->
+  <rect x="718" y="288" width="68" height="18" rx="3" fill="#f97316" opacity="0.7"/>
+
+  <!-- ROW 9: Despliegue (S15) RUTA CRÍTICA -->
+  <rect x="60" y="312" width="195" height="26" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="68" y="329" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f97316">Despliegue + Caps (A+B) ⚑</text>
+  <!-- S15 bar -->
+  <rect x="794" y="316" width="30" height="18" rx="3" fill="#f97316"/>
+
+  <!-- HITO MARKERS -->
+  <!-- H1 end of S5 -->
+  <polygon points="448,88 456,100 448,112" fill="#facc15"/>
+  <text x="428" y="352" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">H1</text>
+  <line x1="448" y1="112" x2="448" y2="345" stroke="#facc15" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- H2 end of S8 -->
+  <polygon points="562,144 570,156 562,168" fill="#facc15"/>
+  <text x="542" y="370" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">H2</text>
+  <line x1="562" y1="168" x2="562" y2="362" stroke="#facc15" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- H3 end of S12 -->
+  <polygon points="714,228 722,240 714,252" fill="#facc15"/>
+  <text x="694" y="388" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">H3</text>
+  <line x1="714" y1="252" x2="714" y2="380" stroke="#facc15" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- H4 end of S15 -->
+  <polygon points="828,312 836,324 828,336" fill="#facc15"/>
+  <text x="818" y="406" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">H4</text>
+  <line x1="828" y1="336" x2="828" y2="398" stroke="#facc15" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- Hito labels -->
+  <rect x="60" y="348" width="780" height="14" fill="#0d1117"/>
+  <text x="428" y="360" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">● Autenticación lista</text>
+  <text x="542" y="378" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">● Inventario + Clientes</text>
+  <text x="694" y="396" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">● Sistema completo</text>
+  <text x="818" y="414" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#facc15" text-anchor="middle">● Entrega final</text>
+
+  <!-- Legend -->
+  <rect x="60" y="428" width="780" height="54" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="90" y="446" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#8b949e">Leyenda:</text>
+  <rect x="140" y="436" width="18" height="12" rx="2" fill="#f97316"/>
+  <text x="162" y="446" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">Ruta crítica ⚑</text>
+  <rect x="270" y="436" width="18" height="12" rx="2" fill="#1565C0"/>
+  <text x="292" y="446" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">Ruta no crítica</text>
+  <polygon points="404,436 412,448 404,460" fill="#facc15"/>
+  <text x="418" y="446" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#facc15">Hito (punto de control)</text>
+  <text x="90" y="468" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e">Duración total: 15 semanas ≈ 3.5 meses   |   Esfuerzo: 194 días-persona   |   Equipo: 2 devs @ 80% cap.</text>
+</svg>

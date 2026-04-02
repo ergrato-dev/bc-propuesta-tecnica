@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+  <!-- Background -->
+  <rect width="800" height="480" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="38" font-family="Inter, Roboto, sans-serif" font-size="18" font-weight="700" fill="#e6edf3" text-anchor="middle">Esfuerzo vs. Duración — ¿Cuál es la diferencia?</text>
+  <line x1="80" y1="48" x2="720" y2="48" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- ====== LEFT COLUMN: ESFUERZO ====== -->
+  <rect x="60" y="66" width="290" height="340" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <rect x="60" y="66" width="290" height="44" rx="10" fill="#1565C0"/>
+  <rect x="60" y="96" width="290" height="14" fill="#1565C0"/>
+  <text x="205" y="94" font-family="Inter, Roboto, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">ESFUERZO</text>
+  <text x="205" y="112" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90caf9" text-anchor="middle">días-persona / horas-persona</text>
+
+  <!-- Esfuerzo icon: person stack -->
+  <circle cx="205" cy="152" r="18" fill="#1565C0" opacity="0.25"/>
+  <circle cx="195" cy="147" r="9" fill="#42a5f5"/>
+  <rect x="186" y="157" width="18" height="12" rx="4" fill="#42a5f5"/>
+  <circle cx="215" cy="147" r="9" fill="#1565C0"/>
+  <rect x="206" y="157" width="18" height="12" rx="4" fill="#1565C0"/>
+
+  <text x="205" y="190" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">¿Cuánto trabajo total</text>
+  <text x="205" y="206" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">hay que hacer?</text>
+
+  <!-- Formula box -->
+  <rect x="82" y="218" width="246" height="34" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="205" y="240" font-family="'Courier New', monospace" font-size="13" fill="#42a5f5" text-anchor="middle">Esfuerzo = Σ (horas por tarea)</text>
+
+  <!-- Examples -->
+  <text x="90" y="274" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e">Ejemplo:</text>
+  <text x="90" y="290" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9">• Módulo login: 31 días-persona</text>
+  <text x="90" y="306" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9">• 1 dev × 31 días trabajados</text>
+  <text x="90" y="322" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9">• O 2 devs × 15.5 días c/u</text>
+
+  <!-- Independent of calendar -->
+  <rect x="82" y="334" width="246" height="56" rx="6" fill="#1c2a1e"/>
+  <text x="205" y="356" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#56d364" text-anchor="middle">✓ No depende del calendario</text>
+  <text x="205" y="372" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#56d364" text-anchor="middle">✓ Sigue igual sin importar</text>
+  <text x="205" y="388" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#56d364" text-anchor="middle">cuántas personas trabajen</text>
+
+  <!-- ====== RIGHT COLUMN: DURACIÓN ====== -->
+  <rect x="450" y="66" width="290" height="340" rx="10" fill="#161b22" stroke="#e6953a" stroke-width="1.5"/>
+  <rect x="450" y="66" width="290" height="44" rx="10" fill="#e6953a"/>
+  <rect x="450" y="96" width="290" height="14" fill="#e6953a"/>
+  <text x="595" y="94" font-family="Inter, Roboto, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">DURACIÓN</text>
+  <text x="595" y="112" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#fff3e0" text-anchor="middle">días / semanas de calendario</text>
+
+  <!-- Calendar icon -->
+  <rect x="577" y="130" width="36" height="32" rx="4" fill="none" stroke="#e6953a" stroke-width="2"/>
+  <line x1="577" y1="140" x2="613" y2="140" stroke="#e6953a" stroke-width="1.5"/>
+  <line x1="586" y1="126" x2="586" y2="134" stroke="#e6953a" stroke-width="2"/>
+  <line x1="604" y1="126" x2="604" y2="134" stroke="#e6953a" stroke-width="2"/>
+  <text x="595" y="157" font-family="Inter, Roboto, sans-serif" font-size="18" fill="#f97316" text-anchor="middle">📅</text>
+
+  <text x="595" y="190" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">¿Cuánto tiempo real pasará</text>
+  <text x="595" y="206" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">desde inicio hasta entrega?</text>
+
+  <!-- Formula box -->
+  <rect x="472" y="218" width="246" height="46" rx="6" fill="#0d1117" stroke="#e6953a" stroke-width="1"/>
+  <text x="595" y="238" font-family="'Courier New', monospace" font-size="11.5" fill="#fb923c" text-anchor="middle">Duración = Esfuerzo ÷</text>
+  <text x="595" y="254" font-family="'Courier New', monospace" font-size="11.5" fill="#fb923c" text-anchor="middle">(Personas × Factor cap.)</text>
+
+  <!-- Examples -->
+  <text x="470" y="278" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e">Ejemplo FerreMax:</text>
+  <text x="470" y="294" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9">• 194 días-persona totales</text>
+  <text x="470" y="310" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9">• 2 devs × 80% capacidad</text>
+  <text x="470" y="326" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#fb923c">• = 121 días ≈ 24 semanas</text>
+
+  <!-- Depends on team -->
+  <rect x="472" y="334" width="246" height="56" rx="6" fill="#2a1c0e"/>
+  <text x="595" y="356" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#fb923c" text-anchor="middle">⚡ Cambia según el equipo</text>
+  <text x="595" y="372" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#fb923c" text-anchor="middle">⚡ Afectada por capacidad</text>
+  <text x="595" y="388" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#fb923c" text-anchor="middle">⚡ Incluye buffer</text>
+
+  <!-- CENTER ARROW -->
+  <text x="400" y="150" font-family="Inter, Roboto, sans-serif" font-size="28" fill="#c9d1d9" text-anchor="middle">→</text>
+  <text x="400" y="175" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">convierte</text>
+  <text x="400" y="191" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">en</text>
+
+  <!-- BOTTOM NOTE -->
+  <rect x="60" y="418" width="680" height="40" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="434" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">El esfuerzo siempre es el mismo. La duración varía según el tamaño del equipo y su</text>
+  <text x="400" y="450" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">capacidad real. Más personas no siempre significa menos tiempo (Ley de Brooks).</text>
+</svg>
