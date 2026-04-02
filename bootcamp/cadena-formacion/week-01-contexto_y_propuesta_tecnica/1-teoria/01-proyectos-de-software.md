@@ -106,7 +106,7 @@ No existe una sola forma de gestionar proyectos. Las más comunes en el sector T
 | **Ágil** (Scrum/Kanban) | Entregas parciales cada 2-4 semanas, requisitos pueden cambiar | Proyectos con cambios frecuentes, startups |
 | **Híbrida** | Mezcla planificación estructurada + entregas ágiles | PME y proyectos medianos en Colombia |
 
-> 💡 En el Bootcamp usaremos una **metodología predictiva simplificada** para aprender a elaborar la propuesta técnica. En el mundo laboral real, la metodología debe elegirse según el contexto del cliente.
+> 💡 En el Bootcamp usaremos una **metodología híbrida** para aprender a elaborar la propuesta técnica: tomamos lo mejor de la planificación estructurada (predictiva) y la flexibilidad de las entregas ágiles. En el mundo laboral real, la metodología debe elegirse según el contexto del cliente.
 
 ---
 

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <!-- Background -->
+  <rect width="900" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">Tipos de Requisitos de Software</text>
+
+  <!-- === RF Column === -->
+  <rect x="60" y="70" width="360" height="390" rx="8" fill="#161b22" stroke="#1565C0" stroke-width="2"/>
+  <rect x="60" y="70" width="360" height="52" rx="8" fill="#1565C0"/>
+  <rect x="60" y="100" width="360" height="22" fill="#1565C0"/>
+  <text x="240" y="103" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Requisitos Funcionales (RF)</text>
+  <text x="240" y="119" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" fill="#bbdefb">¿Qué debe HACER el sistema?</text>
+
+  <!-- RF icon area -->
+  <text x="240" y="158" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="32" fill="#42a5f5">⚙️</text>
+
+  <!-- RF description -->
+  <text x="240" y="195" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="13" fill="#8b949e">Acciones, operaciones y comportamientos</text>
+  <text x="240" y="212" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="13" fill="#8b949e">que el usuario puede ejecutar</text>
+
+  <!-- RF formula -->
+  <rect x="80" y="228" width="320" height="32" rx="4" fill="#1e2a38" stroke="#1565C0" stroke-width="1"/>
+  <text x="240" y="249" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#79c0ff">El sistema debe [verbo] [objeto] [condición]</text>
+
+  <!-- RF examples -->
+  <text x="90" y="285" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Ejemplos:</text>
+
+  <rect x="80" y="294" width="10" height="10" rx="2" fill="#1565C0"/>
+  <text x="98" y="303" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Registrar productos con código y precio</text>
+
+  <rect x="80" y="312" width="10" height="10" rx="2" fill="#1565C0"/>
+  <text x="98" y="321" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Actualizar stock al registrar una venta</text>
+
+  <rect x="80" y="330" width="10" height="10" rx="2" fill="#1565C0"/>
+  <text x="98" y="339" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Generar reporte de ventas en PDF</text>
+
+  <rect x="80" y="348" width="10" height="10" rx="2" fill="#1565C0"/>
+  <text x="98" y="357" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Mostrar inventario en tiempo real</text>
+
+  <!-- RF test -->
+  <rect x="80" y="375" width="320" height="40" rx="4" fill="#0d2818" stroke="#238636" stroke-width="1"/>
+  <text x="240" y="391" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#3fb950">¿Se puede probar? ¿El sistema lo hace o no?</text>
+  <text x="240" y="407" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#3fb950">Si la respuesta es clara → buen requisito ✓</text>
+
+  <!-- RF ID label -->
+  <rect x="90" y="430" width="54" height="20" rx="10" fill="#1565C0"/>
+  <text x="117" y="444" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">RF-001</text>
+
+  <!-- === RNF Column === -->
+  <rect x="480" y="70" width="360" height="390" rx="8" fill="#161b22" stroke="#6a3d9a" stroke-width="2"/>
+  <rect x="480" y="70" width="360" height="52" rx="8" fill="#6a3d9a"/>
+  <rect x="480" y="100" width="360" height="22" fill="#6a3d9a"/>
+  <text x="660" y="103" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Requisitos No Funcionales (RNF)</text>
+  <text x="660" y="119" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" fill="#e1bee7">¿Cómo debe COMPORTARSE el sistema?</text>
+
+  <!-- RNF icon area -->
+  <text x="660" y="158" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="32" fill="#ce93d8">🛡️</text>
+
+  <!-- RNF description -->
+  <text x="660" y="195" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="13" fill="#8b949e">Características de calidad, rendimiento</text>
+  <text x="660" y="212" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="13" fill="#8b949e">y restricciones del sistema</text>
+
+  <!-- RNF categories -->
+  <rect x="500" y="228" width="320" height="32" rx="4" fill="#1e1a2e" stroke="#6a3d9a" stroke-width="1"/>
+  <text x="660" y="249" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" fill="#ce93d8">Rendimiento · Seguridad · Usabilidad · Compatibilidad</text>
+
+  <!-- RNF examples -->
+  <text x="510" y="285" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Ejemplos:</text>
+
+  <rect x="500" y="294" width="10" height="10" rx="2" fill="#6a3d9a"/>
+  <text x="518" y="303" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Responder en menos de 3 segundos</text>
+
+  <rect x="500" y="312" width="10" height="10" rx="2" fill="#6a3d9a"/>
+  <text x="518" y="321" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Solo el admin puede modificar precios</text>
+
+  <rect x="500" y="330" width="10" height="10" rx="2" fill="#6a3d9a"/>
+  <text x="518" y="339" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Funcionar en Android desde versión 8.0</text>
+
+  <rect x="500" y="348" width="10" height="10" rx="2" fill="#6a3d9a"/>
+  <text x="518" y="357" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#8b949e">Disponible 99% del tiempo en horario laboral</text>
+
+  <!-- RNF test -->
+  <rect x="500" y="375" width="320" height="40" rx="4" fill="#1e1a2e" stroke="#6a3d9a" stroke-width="1"/>
+  <text x="660" y="391" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#ce93d8">Describe una CUALIDAD del sistema</text>
+  <text x="660" y="407" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" fill="#ce93d8">No una acción directa del usuario</text>
+
+  <!-- RNF ID label -->
+  <rect x="510" y="430" width="60" height="20" rx="10" fill="#6a3d9a"/>
+  <text x="540" y="444" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">RNF-001</text>
+
+  <!-- Center divider with VS -->
+  <text x="450" y="275" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="18" font-weight="900" fill="#30363d">VS</text>
+
+  <!-- Footer -->
+  <text x="450" y="490" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#484f58">Bootcamp Propuesta Técnica · Cadena de Formación · Semana 2</text>
+</svg>

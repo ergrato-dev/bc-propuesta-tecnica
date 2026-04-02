@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440">
+  <!-- Background -->
+  <rect width="900" height="440" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">Proceso de Levantamiento de Requisitos</text>
+
+  <!-- Paso 1 -->
+  <rect x="40" y="70" width="140" height="130" rx="8" fill="#161b22" stroke="#1565C0" stroke-width="2"/>
+  <rect x="40" y="70" width="140" height="40" rx="8" fill="#1565C0"/>
+  <rect x="40" y="96" width="140" height="14" fill="#1565C0"/>
+  <text x="110" y="94" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">01</text>
+  <text x="110" y="108" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Preparar</text>
+  <text x="110" y="130" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="26">📝</text>
+  <text x="110" y="160" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Revisar contexto</text>
+  <text x="110" y="174" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Hacer guion</text>
+  <text x="110" y="188" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">de entrevista</text>
+
+  <!-- Arrow 1-2 -->
+  <text x="200" y="140" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="24" fill="#30363d">→</text>
+
+  <!-- Paso 2 -->
+  <rect x="220" y="70" width="140" height="130" rx="8" fill="#161b22" stroke="#0288d1" stroke-width="2"/>
+  <rect x="220" y="70" width="140" height="40" rx="8" fill="#0288d1"/>
+  <rect x="220" y="96" width="140" height="14" fill="#0288d1"/>
+  <text x="290" y="94" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">02</text>
+  <text x="290" y="108" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Levantar</text>
+  <text x="290" y="130" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="26">🎤</text>
+  <text x="290" y="160" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Entrevista</text>
+  <text x="290" y="174" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Cuestionario</text>
+  <text x="290" y="188" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Observación</text>
+
+  <!-- Arrow 2-3 -->
+  <text x="380" y="140" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="24" fill="#30363d">→</text>
+
+  <!-- Paso 3 -->
+  <rect x="400" y="70" width="140" height="130" rx="8" fill="#161b22" stroke="#2e7d32" stroke-width="2"/>
+  <rect x="400" y="70" width="140" height="40" rx="8" fill="#2e7d32"/>
+  <rect x="400" y="96" width="140" height="14" fill="#2e7d32"/>
+  <text x="470" y="94" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">03</text>
+  <text x="470" y="108" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Documentar</text>
+  <text x="470" y="130" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="26">📄</text>
+  <text x="470" y="160" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Acta de reunión</text>
+  <text x="470" y="174" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Tabla RF / RNF</text>
+  <text x="470" y="188" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">con ID y prioridad</text>
+
+  <!-- Arrow 3-4 -->
+  <text x="560" y="140" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="24" fill="#30363d">→</text>
+
+  <!-- Paso 4 -->
+  <rect x="580" y="70" width="140" height="130" rx="8" fill="#161b22" stroke="#e65100" stroke-width="2"/>
+  <rect x="580" y="70" width="140" height="40" rx="8" fill="#e65100"/>
+  <rect x="580" y="96" width="140" height="14" fill="#e65100"/>
+  <text x="650" y="94" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">04</text>
+  <text x="650" y="108" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Validar</text>
+  <text x="650" y="130" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="26">✅</text>
+  <text x="650" y="160" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Enviar acta</text>
+  <text x="650" y="174" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Pedir confirmación</text>
+  <text x="650" y="188" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">del cliente</text>
+
+  <!-- Arrow 4-5 -->
+  <text x="740" y="140" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="24" fill="#30363d">→</text>
+
+  <!-- Paso 5 -->
+  <rect x="760" y="70" width="100" height="130" rx="8" fill="#161b22" stroke="#6a3d9a" stroke-width="2"/>
+  <rect x="760" y="70" width="100" height="40" rx="8" fill="#6a3d9a"/>
+  <rect x="760" y="96" width="100" height="14" fill="#6a3d9a"/>
+  <text x="810" y="94" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="11" font-weight="700" fill="#ffffff">05</text>
+  <text x="810" y="108" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Cerrar</text>
+  <text x="810" y="130" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="26">🔒</text>
+  <text x="810" y="160" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Línea base</text>
+  <text x="810" y="174" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">de requisitos</text>
+  <text x="810" y="188" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">acordada</text>
+
+  <!-- === Deliverables section === -->
+  <rect x="40" y="230" width="820" height="170" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="256" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Resultados del Proceso</text>
+
+  <!-- Deliverable boxes -->
+  <rect x="60" y="268" width="240" height="110" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="180" y="288" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#42a5f5">📋 Acta de Reunión</text>
+  <text x="180" y="308" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Fecha y participantes</text>
+  <text x="180" y="323" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Temas tratados</text>
+  <text x="180" y="338" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Acuerdos y compromisos</text>
+  <text x="180" y="353" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Preguntas pendientes</text>
+
+  <rect x="330" y="268" width="240" height="110" rx="6" fill="#0d1117" stroke="#2e7d32" stroke-width="1"/>
+  <text x="450" y="288" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#81c784">📊 Lista de Requisitos</text>
+  <text x="450" y="308" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">RF con ID único y prioridad</text>
+  <text x="450" y="323" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">RNF con categoría</text>
+  <text x="450" y="338" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Requisitos a aclarar</text>
+  <text x="450" y="353" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Formato: "El sistema debe..."</text>
+
+  <rect x="600" y="268" width="240" height="110" rx="6" fill="#0d1117" stroke="#6a3d9a" stroke-width="1"/>
+  <text x="720" y="288" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="12" font-weight="700" fill="#ce93d8">✉️ Confirmación del Cliente</text>
+  <text x="720" y="308" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Correo o firma del acta</text>
+  <text x="720" y="323" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Evidencia del levantamiento</text>
+  <text x="720" y="338" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">Respaldo ante cambios</text>
+  <text x="720" y="353" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#8b949e">futuros del cliente</text>
+
+  <!-- Footer -->
+  <text x="450" y="430" text-anchor="middle" font-family="Inter, Roboto, Open Sans, sans-serif" font-size="10" fill="#484f58">Bootcamp Propuesta Técnica · Cadena de Formación · Semana 2</text>
+</svg>
