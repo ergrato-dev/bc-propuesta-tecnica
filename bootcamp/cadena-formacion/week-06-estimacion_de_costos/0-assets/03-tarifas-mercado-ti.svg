@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="34" font-family="Inter, Roboto, sans-serif" font-size="16" font-weight="700" fill="#e6edf3" text-anchor="middle">Tarifas del Mercado TI — Colombia 2025</text>
+  <text x="400" y="52" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Hora-consultor independiente (COP)  ·  Fuente: Torre.co · Computrabajo · LinkedIn · Stack Overflow Survey</text>
+  <line x1="60" y1="60" x2="740" y2="60" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Y-axis label -->
+  <text x="22" y="280" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle" transform="rotate(-90, 22, 280)">Tarifa (COP/hora)</text>
+
+  <!-- Y-axis grid lines and labels -->
+  <!-- max value: 180,000; scale: 320px height from y=80 to y=400; per 20k = ~35.6px -->
+  <!-- 0 = y:400, 20k=y:364, 40k=y:329, 60k=y:293, 80k=y:257, 100k=y:222, 120k=y:186, 140k=y:151, 160k=y:115, 180k=y:80 -->
+
+  <line x1="100" y1="80" x2="720" y2="80" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="84" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$180k</text>
+  <line x1="100" y1="115" x2="720" y2="115" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="119" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$160k</text>
+  <line x1="100" y1="151" x2="720" y2="151" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="155" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$140k</text>
+  <line x1="100" y1="186" x2="720" y2="186" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="190" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$120k</text>
+  <line x1="100" y1="222" x2="720" y2="222" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="226" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$100k</text>
+  <line x1="100" y1="257" x2="720" y2="257" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="261" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$80k</text>
+  <line x1="100" y1="293" x2="720" y2="293" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="297" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$60k</text>
+  <line x1="100" y1="329" x2="720" y2="329" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="333" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$40k</text>
+  <line x1="100" y1="364" x2="720" y2="364" stroke="#21262d" stroke-width="0.5"/>
+  <text x="92" y="368" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$20k</text>
+  <line x1="100" y1="400" x2="720" y2="400" stroke="#30363d" stroke-width="1"/>
+  <text x="92" y="404" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">$0</text>
+
+  <!-- X axis -->
+  <line x1="100" y1="400" x2="720" y2="400" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- 
+    Profiles: 4 bars (+ subgroups for min/max)
+    Bar groups spaced: group width ~140px, gap ~15px
+    Group 1 (Aprendiz/Pasante): x=120
+    Group 2 (Junior): x=270
+    Group 3 (Semi-senior): x=420
+    Group 4 (Senior): x=565
+    Tech Lead +20px 
+    Each: min bar (lighter) and max bar (darker), width 50px each, side by side
+  -->
+
+  <!-- FerreMax Dev B reference line ($38k): y= 400 - (38/180*320) = 400 - 67.6 = 332 -->
+  <line x1="100" y1="332" x2="720" y2="332" stroke="#f59e0b" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="724" y="336" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#f59e0b">Dev B FerreMax $38k</text>
+
+  <!-- FerreMax Dev A reference line ($55k): y= 400 - (55/180*320) = 400 - 97.8 = 302 -->
+  <line x1="100" y1="302" x2="720" y2="302" stroke="#42a5f5" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="724" y="306" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#42a5f5">Dev A FerreMax $55k</text>
+
+  <!-- GROUP 1: Aprendiz / Pasante → range $8k–$15k -->
+  <!-- min bar: $8k → y= 400 - (8/180*320) = 400 - 14.2 = 386; height=14 -->
+  <!-- max bar: $15k → y= 400 - (15/180*320) = 400 - 26.7 = 373; height=27 -->
+  <!-- Range bar from $8k to $15k: height=27-->
+  <rect x="126" y="373" width="80" height="27" rx="3" fill="#374151" stroke="#4b5563" stroke-width="1"/>
+  <rect x="126" y="386" width="80" height="14" rx="2" fill="#4b5563"/>
+  <text x="166" y="421" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#9ca3af" text-anchor="middle">Aprendiz</text>
+  <text x="166" y="433" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">$8k – $15k</text>
+  <!-- min label -->
+  <text x="166" y="370" font-family="'Courier New', monospace" font-size="8" fill="#9ca3af" text-anchor="middle">$8k–$15k</text>
+
+  <!-- GROUP 2: Junior → range $28k–$40k -->
+  <!-- $28k → y= 400 - (28/180*320) = 400 - 49.8 = 350 -->
+  <!-- $40k → y= 400 - (40/180*320) = 400 - 71.1 = 329 -->
+  <!-- height from 350 to 329 = 71 total, range bar h=21 on top of base -->
+  <rect x="271" y="329" width="80" height="71" rx="3" fill="#1e3a5f" stroke="#1565C0" stroke-width="1"/>
+  <rect x="271" y="350" width="80" height="50" rx="2" fill="#1a3050"/>
+  <text x="311" y="421" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#93c5fd" text-anchor="middle">Junior</text>
+  <text x="311" y="433" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#60a5fa" text-anchor="middle">$28k – $40k</text>
+  <text x="311" y="326" font-family="'Courier New', monospace" font-size="8" fill="#93c5fd" text-anchor="middle">$28k–$40k</text>
+
+  <!-- GROUP 3: Semi-senior → range $45k–$70k -->
+  <!-- $45k → y= 400 - (45/180*320) = 400 - 80 = 320 -->
+  <!-- $70k → y= 400 - (70/180*320) = 400 - 124.4 = 276 -->
+  <rect x="421" y="276" width="80" height="124" rx="3" fill="#103060" stroke="#1565C0" stroke-width="1.5"/>
+  <rect x="421" y="320" width="80" height="80" rx="2" fill="#0d254d"/>
+  <text x="461" y="421" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#60a5fa" text-anchor="middle">Semi-sr</text>
+  <text x="461" y="433" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#42a5f5" text-anchor="middle">$45k – $70k</text>
+  <text x="461" y="273" font-family="'Courier New', monospace" font-size="8" fill="#60a5fa" text-anchor="middle">$45k–$70k</text>
+
+  <!-- GROUP 4: Senior → range $75k–$120k -->
+  <!-- $75k → y= 400 - (75/180*320) = 400 - 133.3 = 267 -->
+  <!-- $120k → y= 400 - (120/180*320) = 400 - 213.3 = 187 -->
+  <rect x="566" y="187" width="80" height="213" rx="3" fill="#1565C0" stroke="#2979ff" stroke-width="1.5"/>
+  <rect x="566" y="267" width="80" height="133" rx="2" fill="#1358a8"/>
+  <text x="606" y="421" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#e6edf3" text-anchor="middle">Senior</text>
+  <text x="606" y="433" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#93c5fd" text-anchor="middle">$75k – $120k</text>
+  <text x="606" y="184" font-family="'Courier New', monospace" font-size="8" fill="#93c5fd" text-anchor="middle">$75k–$120k</text>
+
+  <!-- Tech Lead annotation -->
+  <!-- $100k–$160k range shown as overlay on far right -->
+  <rect x="660" y="115" width="50" height="213" rx="3" fill="#1d2437" stroke="#4a90d9" stroke-width="1" opacity="0.8"/>
+  <text x="685" y="113" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#818cf8" text-anchor="middle">Tech</text>
+  <text x="685" y="124" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#818cf8" text-anchor="middle">Lead</text>
+  <text x="685" y="421" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#818cf8" text-anchor="middle">Tech</text>
+  <text x="685" y="433" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6366f1" text-anchor="middle">Lead</text>
+  <text x="685" y="285" font-family="'Courier New', monospace" font-size="8" fill="#818cf8" text-anchor="middle" transform="rotate(-90, 685, 285)">$100k–$160k</text>
+
+  <!-- Legend for FerreMax reference lines -->
+  <rect x="100" y="448" width="12" height="2" fill="#42a5f5"/>
+  <text x="116" y="456" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#42a5f5">Dev A FerreMax ($55k/h) — perfil semi-senior</text>
+  <rect x="320" y="448" width="12" height="2" fill="#f59e0b"/>
+  <text x="336" y="456" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#f59e0b">Dev B FerreMax ($38k/h) — perfil junior+</text>
+
+  <!-- Darker bar explanation -->
+  <text x="620" y="456" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6b7280">Barra oscura = mínimo  ·  Total = rango</text>
+</svg>
