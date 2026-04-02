@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+  <!-- Background -->
+  <rect width="800" height="480" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="28" font-family="Inter, Roboto, sans-serif" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Ciclo de Gestión de Riesgos</text>
+  <text x="400" y="45" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">4 etapas para identificar, analizar, planificar y documentar riesgos del proyecto</text>
+  <line x1="60" y1="52" x2="740" y2="52" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- CENTRAL HUB -->
+  <circle cx="400" cy="240" r="50" fill="#0f1f2e" stroke="#1565C0" stroke-width="2"/>
+  <text x="400" y="235" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#60a5fa" text-anchor="middle">Gestión</text>
+  <text x="400" y="250" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#60a5fa" text-anchor="middle">de Riesgos</text>
+
+  <!-- ======= STEP 1: IDENTIFICAR (top) ======= -->
+  <circle cx="400" cy="100" r="42" fill="#0c2d1c" stroke="#56d364" stroke-width="2"/>
+  <text x="400" y="96" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#86efac" text-anchor="middle">1</text>
+  <text x="400" y="111" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">Identificar</text>
+  <!-- Description box -->
+  <rect x="290" y="148" width="220" height="48" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="165" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">¿Qué podría salir mal?</text>
+  <text x="400" y="178" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Categorías: técnico, gestión,</text>
+  <text x="400" y="191" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">comunicación, financiero, externo</text>
+  <!-- Arrow down from circle to box -->
+  <line x1="400" y1="142" x2="400" y2="148" stroke="#56d364" stroke-width="1.5"/>
+
+  <!-- ======= STEP 2: ANALIZAR (right) ======= -->
+  <circle cx="600" cy="240" r="42" fill="#1a1505" stroke="#e6953a" stroke-width="2"/>
+  <text x="600" y="236" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#fde68a" text-anchor="middle">2</text>
+  <text x="600" y="251" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#fde68a" text-anchor="middle">Analizar</text>
+  <!-- Description box -->
+  <rect x="520" y="295" width="210" height="60" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="625" y="312" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Escala P × I (1–5)</text>
+  <text x="625" y="325" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Clasificar: Bajo / Medio /</text>
+  <text x="625" y="338" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Alto / Crítico</text>
+  <text x="625" y="351" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#e6953a" text-anchor="middle">Criterio de priorización</text>
+  <!-- Arrow down from circle to box -->
+  <line x1="600" y1="282" x2="600" y2="295" stroke="#e6953a" stroke-width="1.5"/>
+
+  <!-- ======= STEP 3: PLANIFICAR (bottom) ======= -->
+  <circle cx="400" cy="375" r="42" fill="#1c1436" stroke="#7c3aed" stroke-width="2"/>
+  <text x="400" y="371" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#c4b5fd" text-anchor="middle">3</text>
+  <text x="400" y="386" font-family="Inter, Roboto, sans-serif" font-size="9" font-weight="700" fill="#c4b5fd" text-anchor="middle">Planificar Respuesta</text>
+  <!-- Description box -->
+  <rect x="280" y="248" width="240" height="35" rx="4" fill="#1c1436" stroke="#7c3aed" stroke-width="1" opacity="0.7"/>
+  <text x="400" y="263" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#c4b5fd" text-anchor="middle">Estrategia: Mitigar · Evitar</text>
+  <text x="400" y="278" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#c4b5fd" text-anchor="middle">Transferir · Aceptar</text>
+  <!-- Arrow up from circle to box -->
+  <line x1="400" y1="333" x2="400" y2="283" stroke="#7c3aed" stroke-width="1.5"/>
+
+  <!-- ======= STEP 4: DOCUMENTAR (left) ======= -->
+  <circle cx="200" cy="240" r="42" fill="#0f1f2e" stroke="#1565C0" stroke-width="2"/>
+  <text x="200" y="236" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#93c5fd" text-anchor="middle">4</text>
+  <text x="200" y="251" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#93c5fd" text-anchor="middle">Documentar</text>
+  <!-- Description box -->
+  <rect x="70" y="295" width="210" height="60" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="175" y="312" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Tabla de riesgos en la propuesta</text>
+  <text x="175" y="325" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">ID · Desc · P · I · Nivel</text>
+  <text x="175" y="338" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Estrategia · Acción concreta</text>
+  <text x="175" y="351" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#1565C0" text-anchor="middle">Responsable asignado</text>
+  <!-- Arrow down from circle to box -->
+  <line x1="200" y1="282" x2="174" y2="295" stroke="#1565C0" stroke-width="1.5"/>
+
+  <!-- CIRCULAR ARROWS between nodes -->
+  <!-- 1→2: curved line from top to right -->
+  <path d="M 438 115 Q 540 140 560 200" stroke="#30363d" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <polygon points="558,198 564,208 554,205" fill="#30363d"/>
+
+  <!-- 2→3: curved line from right to bottom -->
+  <path d="M 580 278 Q 540 340 438 362" stroke="#30363d" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <polygon points="440,360 432,367 435,356" fill="#30363d"/>
+
+  <!-- 3→4: curved line from bottom to left -->
+  <path d="M 362 362 Q 280 340 242 278" stroke="#30363d" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <polygon points="242,280 236,270 246,274" fill="#30363d"/>
+
+  <!-- 4→1: curved line from left to top -->
+  <path d="M 238 200 Q 280 140 362 115" stroke="#30363d" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <polygon points="360,117 370,110 366,122" fill="#30363d"/>
+
+  <!-- MINI REFERENCE: 4 strategies -->
+  <rect x="530" y="62" width="210" height="90" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="635" y="80" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#e6edf3" text-anchor="middle">4 Estrategias de Respuesta</text>
+  <text x="540" y="97" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364">🛡️ Mitigar</text>
+  <text x="620" y="97" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Reducir P o I</text>
+  <text x="540" y="112" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#60a5fa">🚫 Evitar</text>
+  <text x="620" y="112" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Eliminar la causa</text>
+  <text x="540" y="127" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#a78bfa">🤝 Transferir</text>
+  <text x="620" y="127" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Responsabilidad a 3ro</text>
+  <text x="540" y="142" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#fde68a">✅ Aceptar</text>
+  <text x="620" y="142" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Bajo impacto — monitoreo</text>
+
+  <!-- Footer -->
+  <line x1="60" y1="432" x2="740" y2="432" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="450" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Los riesgos deben revisarse cada semana durante la ejecución del proyecto — no solo al escribir la propuesta</text>
+  <text x="400" y="465" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">Cadena de Formación · Tecnólogo ADSO · Semana 8 de 9</text>
+</svg>

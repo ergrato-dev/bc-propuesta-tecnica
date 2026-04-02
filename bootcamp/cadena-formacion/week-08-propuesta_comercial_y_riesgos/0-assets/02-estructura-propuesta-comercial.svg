@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="28" font-family="Inter, Roboto, sans-serif" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Estructura de la Propuesta Comercial Completa</text>
+  <text x="400" y="45" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Integración de la Parte Técnica (S07) y la Parte Comercial (S08)</text>
+  <line x1="60" y1="52" x2="740" y2="52" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- ============================= -->
+  <!-- LEFT COLUMN: PARTE TÉCNICA S07 -->
+  <!-- ============================= -->
+  <text x="200" y="72" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#60a5fa" text-anchor="middle">PARTE I — TÉCNICA (Semana 7)</text>
+  <rect x="60" y="80" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#1565C0" stroke-width="1"/>
+  <text x="200" y="99" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§1 Portada y Control de Versiones</text>
+
+  <rect x="60" y="114" width="280" height="28" rx="5" fill="#1a1505" stroke="#e6953a" stroke-width="1.5"/>
+  <text x="200" y="133" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#fde68a" text-anchor="middle">§2 Resumen Ejecutivo ⭐</text>
+
+  <rect x="60" y="148" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#1565C0" stroke-width="1"/>
+  <text x="200" y="167" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§3 Análisis del Problema</text>
+
+  <rect x="60" y="182" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#1565C0" stroke-width="1"/>
+  <text x="200" y="201" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§4 Propuesta de Solución (Módulos + Stack)</text>
+
+  <rect x="60" y="216" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#1565C0" stroke-width="1"/>
+  <text x="200" y="235" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§5 Alcance (Incluido / Excluido)</text>
+
+  <rect x="60" y="250" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#1565C0" stroke-width="1"/>
+  <text x="200" y="269" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§6 Metodología de Desarrollo</text>
+
+  <rect x="60" y="284" width="280" height="28" rx="5" fill="#0c2d1c" stroke="#56d364" stroke-width="1"/>
+  <text x="200" y="303" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#86efac" text-anchor="middle">§7 Cronograma ← S05</text>
+
+  <!-- Semana 7 badge -->
+  <rect x="65" y="325" width="270" height="22" rx="4" fill="#0f1f2e" stroke="#1565C0" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="200" y="340" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#60a5fa" text-anchor="middle">Completada en Semana 7 — Entregable S07</text>
+
+  <!-- ============================== -->
+  <!-- RIGHT COLUMN: PARTE COMERCIAL S08 -->
+  <!-- ============================== -->
+  <text x="600" y="72" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#56d364" text-anchor="middle">PARTE II — COMERCIAL (Semana 8)</text>
+
+  <rect x="460" y="80" width="280" height="28" rx="5" fill="#0c2d1c" stroke="#56d364" stroke-width="1.5"/>
+  <text x="600" y="99" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">§8 Tabla de Costos Final ← S06</text>
+
+  <rect x="460" y="114" width="280" height="72" rx="5" fill="#161b22" stroke="#56d364" stroke-width="1"/>
+  <text x="600" y="133" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">§9 Condiciones Comerciales</text>
+  <text x="475" y="151" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">  9.1 Condiciones de pago (30/40/30)</text>
+  <text x="475" y="164" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">  9.2 Garantía post-entrega (30 días)</text>
+  <text x="475" y="177" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">  9.3 Propiedad intelectual  9.4 Validez</text>
+
+  <rect x="460" y="192" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="600" y="211" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§10 Equipo del Proyecto</text>
+
+  <rect x="460" y="226" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="600" y="245" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§11 Supuestos del Proyecto</text>
+
+  <rect x="460" y="260" width="280" height="52" rx="5" fill="#1a0530" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="600" y="281" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#c4b5fd" text-anchor="middle">§12 Matriz de Riesgos</text>
+  <text x="475" y="298" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">  Probabilidad × Impacto · Estrategia respuesta</text>
+  <text x="475" y="309" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">  Mínimo 8 riesgos · 3 categorías distintas</text>
+
+  <rect x="460" y="318" width="280" height="28" rx="5" fill="#0f1f2e" stroke="#7c3aed" stroke-width="1"/>
+  <text x="600" y="337" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c4b5fd" text-anchor="middle">§13 Firma de Aceptación</text>
+
+  <!-- Semana 8 badge -->
+  <rect x="465" y="352" width="270" height="22" rx="4" fill="#0c2d1c" stroke="#56d364" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="600" y="367" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364" text-anchor="middle">Nueva en Semana 8 — Entregable S08</text>
+
+  <!-- CENTRAL CONNECTOR ARROWS -->
+  <!-- Arrow between the two columns -->
+  <line x1="340" y1="200" x2="460" y2="200" stroke="#1565C0" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="457,196 466,200 457,204" fill="#1565C0"/>
+  <text x="400" y="194" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#60a5fa" text-anchor="middle">Se integran</text>
+  <text x="400" y="204" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#60a5fa" text-anchor="middle">en 1 doc.</text>
+
+  <!-- BOTTOM SECTION: Integrated document -->
+  <line x1="60" y1="405" x2="740" y2="405" stroke="#21262d" stroke-width="1"/>
+  <rect x="120" y="415" width="560" height="52" rx="6" fill="#0f2222" stroke="#56d364" stroke-width="1.5"/>
+  <text x="400" y="433" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#86efac" text-anchor="middle">DOCUMENTO FINAL — Semana 9</text>
+  <text x="400" y="449" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Parte I (S07) + Parte II (S08) integradas en una única propuesta profesional lista para defender</text>
+  <text x="400" y="463" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364" text-anchor="middle">~15–20 páginas · $99,165,000 COP · 15 semanas · 10 riesgos identificados</text>
+
+  <!-- Footer -->
+  <text x="400" y="488" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">Cadena de Formación · Tecnólogo ADSO · Semana 8 de 9</text>
+</svg>
