@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" width="900" height="540">
+  <!-- Background -->
+  <rect width="900" height="540" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="44" font-family="Inter, Roboto, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Técnicas de Estimación — Comparativa</text>
+  <text x="450" y="66" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">¿Cuándo usar cada técnica?</text>
+
+  <!-- Column headers -->
+  <rect x="30" y="90" width="160" height="44" rx="6" fill="#161b22"/>
+  <text x="110" y="117" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="middle">Criterio</text>
+
+  <rect x="198" y="90" width="160" height="44" rx="6" fill="#1565C0"/>
+  <text x="278" y="117" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Analogía</text>
+
+  <rect x="366" y="90" width="160" height="44" rx="6" fill="#1565C0"/>
+  <text x="446" y="117" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Delphi</text>
+
+  <rect x="534" y="90" width="160" height="44" rx="6" fill="#1565C0"/>
+  <text x="614" y="117" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">T-shirt Sizing</text>
+
+  <rect x="702" y="90" width="168" height="44" rx="6" fill="#1565C0"/>
+  <text x="786" y="117" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Planning Poker</text>
+
+  <!-- Row 1 -->
+  <rect x="30" y="142" width="160" height="56" rx="4" fill="#161b22"/>
+  <text x="110" y="166" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Proyectos</text>
+  <text x="110" y="183" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">de referencia</text>
+
+  <rect x="198" y="142" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="278" y="175" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Ideal</text>
+
+  <rect x="366" y="142" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="446" y="175" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Útil</text>
+
+  <rect x="534" y="142" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="614" y="175" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Ayuda</text>
+
+  <rect x="702" y="142" width="168" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="786" y="175" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#f85149" text-anchor="middle">✗ No aplica</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="206" width="160" height="56" rx="4" fill="#161b22"/>
+  <text x="110" y="230" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Equipo de</text>
+  <text x="110" y="247" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">1 persona</text>
+
+  <rect x="198" y="206" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="278" y="239" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Funciona</text>
+
+  <rect x="366" y="206" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="446" y="239" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#f85149" text-anchor="middle">✗ No aplica</text>
+
+  <rect x="534" y="206" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="614" y="239" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Funciona</text>
+
+  <rect x="702" y="206" width="168" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="786" y="239" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#f85149" text-anchor="middle">✗ No aplica</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="270" width="160" height="56" rx="4" fill="#161b22"/>
+  <text x="110" y="294" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Necesitas</text>
+  <text x="110" y="311" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">rapidez</text>
+
+  <rect x="198" y="270" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="278" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Rápido</text>
+
+  <rect x="366" y="270" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="446" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#f85149" text-anchor="middle">✗ Lento</text>
+
+  <rect x="534" y="270" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="614" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Rápido</text>
+
+  <rect x="702" y="270" width="168" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="786" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Moderado</text>
+
+  <!-- Row 4 -->
+  <rect x="30" y="334" width="160" height="56" rx="4" fill="#161b22"/>
+  <text x="110" y="358" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Proyecto</text>
+  <text x="110" y="375" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">completamente nuevo</text>
+
+  <rect x="198" y="334" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="278" y="367" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#f85149" text-anchor="middle">✗ Difícil</text>
+
+  <rect x="366" y="334" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="446" y="367" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Ideal</text>
+
+  <rect x="534" y="334" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="614" y="367" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Útil</text>
+
+  <rect x="702" y="334" width="168" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="786" y="367" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Ideal</text>
+
+  <!-- Row 5 -->
+  <rect x="30" y="398" width="160" height="56" rx="4" fill="#161b22"/>
+  <text x="110" y="422" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Quieres consenso</text>
+  <text x="110" y="439" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">del equipo</text>
+
+  <rect x="198" y="398" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="278" y="431" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Parcial</text>
+
+  <rect x="366" y="398" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="446" y="431" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Diseñado</text>
+
+  <rect x="534" y="398" width="160" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="614" y="431" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#e3b341" text-anchor="middle">~ Grupal</text>
+
+  <rect x="702" y="398" width="168" height="56" rx="4" fill="#0d2b4e"/>
+  <text x="786" y="431" font-family="Inter, Roboto, sans-serif" font-size="20" fill="#2ea043" text-anchor="middle">✓ Diseñado</text>
+
+  <!-- Legend -->
+  <rect x="30" y="474" width="840" height="50" rx="6" fill="#161b22"/>
+  <circle cx="80" cy="499" r="8" fill="#2ea043"/>
+  <text x="96" y="503" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9">Ideal / Funciona bien</text>
+  <circle cx="280" cy="499" r="8" fill="#e3b341"/>
+  <text x="296" y="503" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9">Útil con limitaciones</text>
+  <circle cx="480" cy="499" r="8" fill="#f85149"/>
+  <text x="496" y="503" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9">No aplica / Difícil</text>
+  <text x="700" y="503" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Semana 4 — Cadena de Formación · ADSO</text>
+</svg>

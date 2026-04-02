@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480">
+  <!-- Background -->
+  <rect width="860" height="480" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="430" y="44" font-family="Inter, Roboto, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">T-Shirt Sizing — Escala de Complejidad</text>
+  <text x="430" y="66" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">De la funcionalidad más simple a la más compleja</text>
+
+  <!-- Gradient bar (simulated with rects) -->
+  <rect x="50" y="88" width="760" height="8" rx="4" fill="#21262d"/>
+  <rect x="50" y="88" width="156" height="8" rx="4" fill="#1565C0" opacity="0.4"/>
+  <rect x="206" y="88" width="152" height="8" rx="0" fill="#1565C0" opacity="0.6"/>
+  <rect x="358" y="88" width="152" height="8" rx="0" fill="#1565C0" opacity="0.8"/>
+  <rect x="510" y="88" width="150" height="8" rx="0" fill="#1565C0"/>
+  <rect x="660" y="88" width="150" height="8" rx="4" fill="#e3b341" opacity="0.9"/>
+
+  <!-- XS Card -->
+  <rect x="50" y="108" width="150" height="216" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="125" y="140" font-family="Inter, Roboto, sans-serif" font-size="36" font-weight="900" fill="#58a6ff" text-anchor="middle" opacity="0.7">XS</text>
+  <rect x="70" y="155" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="125" y="179" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#c9d1d9" text-anchor="middle">1 – 2 días</text>
+  <text x="125" y="203" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Mínima complejidad</text>
+  <rect x="70" y="218" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="125" y="237" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">Cambio de texto,</text>
+  <text x="125" y="252" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">ajuste de color,</text>
+  <text x="125" y="267" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">botón simple</text>
+  <text x="125" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" text-anchor="middle">👕</text>
+
+  <!-- S Card -->
+  <rect x="208" y="108" width="150" height="216" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="283" y="140" font-family="Inter, Roboto, sans-serif" font-size="36" font-weight="900" fill="#58a6ff" text-anchor="middle" opacity="0.8">S</text>
+  <rect x="228" y="155" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="283" y="179" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#c9d1d9" text-anchor="middle">3 – 5 días</text>
+  <text x="283" y="203" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Baja complejidad</text>
+  <rect x="228" y="218" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="283" y="237" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">Formulario simple,</text>
+  <text x="283" y="252" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">listado básico,</text>
+  <text x="283" y="267" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">notificación</text>
+  <text x="283" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" text-anchor="middle">👕</text>
+
+  <!-- M Card (highlighted) -->
+  <rect x="366" y="96" width="150" height="240" rx="10" fill="#0d2b4e" stroke="#1565C0" stroke-width="2"/>
+  <rect x="366" y="96" width="150" height="34" rx="10" fill="#1565C0"/>
+  <rect x="366" y="116" width="150" height="14" fill="#1565C0"/>
+  <text x="380" y="119" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#ffffff">REFERENCIA</text>
+  <text x="441" y="160" font-family="Inter, Roboto, sans-serif" font-size="36" font-weight="900" fill="#ffffff" text-anchor="middle">M</text>
+  <rect x="386" y="175" width="110" height="2" rx="1" fill="#1565C0" opacity="0.5"/>
+  <text x="441" y="199" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">6 – 10 días</text>
+  <text x="441" y="220" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90b4e8" text-anchor="middle">Complejidad mediana</text>
+  <rect x="386" y="234" width="110" height="2" rx="1" fill="#1565C0" opacity="0.5"/>
+  <text x="441" y="253" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90b4e8" text-anchor="middle" font-style="italic">CRUD completo</text>
+  <text x="441" y="268" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90b4e8" text-anchor="middle" font-style="italic">con validaciones</text>
+  <text x="441" y="283" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90b4e8" text-anchor="middle" font-style="italic">y autenticación</text>
+  <text x="441" y="316" font-family="Inter, Roboto, sans-serif" font-size="20" text-anchor="middle">👕</text>
+
+  <!-- L Card -->
+  <rect x="524" y="108" width="150" height="216" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1"/>
+  <text x="599" y="140" font-family="Inter, Roboto, sans-serif" font-size="36" font-weight="900" fill="#58a6ff" text-anchor="middle">L</text>
+  <rect x="544" y="155" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="599" y="179" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#c9d1d9" text-anchor="middle">11 – 20 días</text>
+  <text x="599" y="203" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Alta complejidad</text>
+  <rect x="544" y="218" width="110" height="2" rx="1" fill="#21262d"/>
+  <text x="599" y="237" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">Módulo con lógica</text>
+  <text x="599" y="252" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">de negocio,</text>
+  <text x="599" y="267" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">roles avanzados</text>
+  <text x="599" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" text-anchor="middle">👕</text>
+
+  <!-- XL Card -->
+  <rect x="682" y="108" width="148" height="216" rx="10" fill="#161b22" stroke="#e3b341" stroke-width="1"/>
+  <text x="756" y="140" font-family="Inter, Roboto, sans-serif" font-size="36" font-weight="900" fill="#e3b341" text-anchor="middle">XL</text>
+  <rect x="702" y="155" width="108" height="2" rx="1" fill="#21262d"/>
+  <text x="756" y="179" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#c9d1d9" text-anchor="middle">21 – 35 días</text>
+  <text x="756" y="203" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#e3b341" text-anchor="middle">Muy alta — ¡subdividir!</text>
+  <rect x="702" y="218" width="108" height="2" rx="1" fill="#21262d"/>
+  <text x="756" y="237" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">Integración externa,</text>
+  <text x="756" y="252" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">factura electrónica</text>
+  <text x="756" y="267" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-style="italic">DIAN, sincronización</text>
+  <text x="756" y="303" font-family="Inter, Roboto, sans-serif" font-size="20" text-anchor="middle">👕</text>
+
+  <!-- XL warning arrow -->
+  <path d="M756 332 L756 355" stroke="#e3b341" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="748,355 764,355 756,368" fill="#e3b341"/>
+  <text x="756" y="390" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#e3b341" text-anchor="middle">Considera partir</text>
+  <text x="756" y="406" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#e3b341" text-anchor="middle">en subtareas</text>
+
+  <!-- Footer note -->
+  <rect x="50" y="420" width="760" height="44" rx="6" fill="#161b22"/>
+  <text x="430" y="440" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">💡 Los días son una conversión orientativa. La duración real del proyecto depende del tamaño del equipo y las</text>
+  <text x="430" y="458" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#c9d1d9" text-anchor="middle">dependencias entre módulos — esto se analiza en la Semana 5.</text>
+</svg>

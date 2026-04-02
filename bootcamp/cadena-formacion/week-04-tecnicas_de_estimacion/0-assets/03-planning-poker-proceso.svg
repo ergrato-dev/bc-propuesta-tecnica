@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 540" width="860" height="540">
+  <!-- Background -->
+  <rect width="860" height="540" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="430" y="40" font-family="Inter, Roboto, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Planning Poker — Proceso Paso a Paso</text>
+  <text x="430" y="62" font-family="Inter, Roboto, sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">Técnica de estimación por consenso de equipo</text>
+
+  <!-- Step 1 -->
+  <rect x="30" y="82" width="120" height="100" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="90" cy="104" r="14" fill="#1565C0"/>
+  <text x="90" y="109" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="90" y="132" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Preparar</text>
+  <text x="90" y="148" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">lista de</text>
+  <text x="90" y="164" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">historias</text>
+
+  <!-- Arrow 1→2 -->
+  <path d="M151 132 L178 132" stroke="#1565C0" stroke-width="2"/>
+  <polygon points="175,126 185,132 175,138" fill="#1565C0"/>
+
+  <!-- Step 2 -->
+  <rect x="188" y="82" width="120" height="100" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="248" cy="104" r="14" fill="#1565C0"/>
+  <text x="248" y="109" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="248" y="132" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Leer historia</text>
+  <text x="248" y="148" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">en voz alta</text>
+  <text x="248" y="164" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">+ aclarar dudas</text>
+
+  <!-- Arrow 2→3 -->
+  <path d="M309 132 L336 132" stroke="#1565C0" stroke-width="2"/>
+  <polygon points="333,126 343,132 333,138" fill="#1565C0"/>
+
+  <!-- Step 3 -->
+  <rect x="346" y="82" width="120" height="100" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="406" cy="104" r="14" fill="#1565C0"/>
+  <text x="406" y="109" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="406" y="132" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Votar en</text>
+  <text x="406" y="148" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">secreto y</text>
+  <text x="406" y="164" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#f85149" text-anchor="middle" font-weight="600">revelar juntos</text>
+
+  <!-- Arrow 3→4 -->
+  <path d="M467 132 L494 132" stroke="#1565C0" stroke-width="2"/>
+  <polygon points="491,126 501,132 491,138" fill="#1565C0"/>
+
+  <!-- Step 4 -->
+  <rect x="504" y="82" width="120" height="100" rx="10" fill="#161b22" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="564" cy="104" r="14" fill="#1565C0"/>
+  <text x="564" y="109" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="564" y="132" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Discutir</text>
+  <text x="564" y="148" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">diferencias</text>
+  <text x="564" y="164" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">y supuestos</text>
+
+  <!-- Arrow 4→5 -->
+  <path d="M625 132 L652 132" stroke="#1565C0" stroke-width="2"/>
+  <polygon points="649,126 659,132 649,138" fill="#1565C0"/>
+
+  <!-- Step 5 -->
+  <rect x="662" y="82" width="120" height="100" rx="10" fill="#161b22" stroke="#2ea043" stroke-width="1.5"/>
+  <circle cx="722" cy="104" r="14" fill="#2ea043"/>
+  <text x="722" y="109" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="722" y="132" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Consenso</text>
+  <text x="722" y="148" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#2ea043" text-anchor="middle" font-weight="600">→ Registrar</text>
+  <text x="722" y="164" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">el estimado</text>
+
+  <!-- Repeat loop arrow (if no consensus) -->
+  <path d="M570 182 Q570 210 540 220 Q430 240 406 220 Q370 210 370 182" stroke="#e3b341" stroke-width="1.5" stroke-dasharray="5,4" fill="none"/>
+  <polygon points="364,184 374,178 370,187" fill="#e3b341"/>
+  <text x="470" y="238" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#e3b341" text-anchor="middle">Si hay desacuerdo → nueva ronda</text>
+
+  <!-- Fibonacci deck area -->
+  <rect x="30" y="270" width="800" height="130" rx="10" fill="#161b22"/>
+  <text x="430" y="295" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Mazo de Cartas Fibonacci</text>
+
+  <!-- Cards -->
+  <rect x="58" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="88" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#58a6ff" text-anchor="middle">1</text>
+
+  <rect x="130" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="160" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#58a6ff" text-anchor="middle">2</text>
+
+  <rect x="202" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="232" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#58a6ff" text-anchor="middle">3</text>
+
+  <rect x="274" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="304" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#58a6ff" text-anchor="middle">5</text>
+
+  <rect x="346" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="376" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#58a6ff" text-anchor="middle">8</text>
+
+  <rect x="418" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="448" y="355" font-family="Inter, Roboto, sans-serif" font-size="24" font-weight="900" fill="#58a6ff" text-anchor="middle">13</text>
+
+  <rect x="490" y="308" width="60" height="78" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1.5"/>
+  <text x="520" y="355" font-family="Inter, Roboto, sans-serif" font-size="24" font-weight="900" fill="#58a6ff" text-anchor="middle">21</text>
+
+  <!-- ? card (special) -->
+  <rect x="562" y="308" width="60" height="78" rx="8" fill="#161b22" stroke="#e3b341" stroke-width="1.5"/>
+  <text x="592" y="355" font-family="Inter, Roboto, sans-serif" font-size="28" font-weight="900" fill="#e3b341" text-anchor="middle">?</text>
+  <text x="592" y="376" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#e3b341" text-anchor="middle">Sin info</text>
+
+  <!-- Why Fibonacci note -->
+  <rect x="644" y="308" width="168" height="78" rx="8" fill="#0d1117"/>
+  <text x="728" y="328" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">¿Por qué Fibonacci?</text>
+  <text x="728" y="345" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">Incertidumbre creciente:</text>
+  <text x="728" y="361" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">no puedes elegir 6 ni 7,</text>
+  <text x="728" y="377" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">solo 5 u 8 → posición clara.</text>
+
+  <!-- Key rule -->
+  <rect x="30" y="416" width="800" height="52" rx="8" fill="#0d2b4e" stroke="#1565C0" stroke-width="1"/>
+  <text x="430" y="437" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">⚡ Regla de Oro: ¡Revelar SIMULTÁNEAMENTE!</text>
+  <text x="430" y="457" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#90b4e8" text-anchor="middle">Si alguien revela antes, ancla la estimación de los demás — elimina el beneficio de la técnica</text>
+
+  <!-- Footer -->
+  <text x="430" y="505" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Los puntos NO son horas ni días — son unidades relativas de complejidad del equipo</text>
+  <text x="430" y="522" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Semana 4 · Cadena de Formación · Tecnólogo ADSO</text>
+</svg>
