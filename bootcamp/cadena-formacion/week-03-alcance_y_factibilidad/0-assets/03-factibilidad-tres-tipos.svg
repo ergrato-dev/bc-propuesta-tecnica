@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="36" font-family="Inter, Roboto, sans-serif" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">Análisis de Factibilidad — Tres Dimensiones</text>
+  <text x="400" y="56" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">Un proyecto es viable cuando supera los tres tipos de factibilidad</text>
+
+  <!-- Factibilidad Técnica Card -->
+  <rect x="30" y="75" width="225" height="310" rx="10" fill="#0d1f2d" stroke="#1565C0" stroke-width="2"/>
+  <rect x="30" y="75" width="225" height="44" rx="10" fill="#1565C0"/>
+  <rect x="30" y="105" width="225" height="14" fill="#1565C0"/>
+  <text x="143" y="101" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">🔧 Técnica</text>
+  <text x="143" y="140" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#90caf9" text-anchor="middle">¿Podemos construirlo?</text>
+  <!-- Criteria -->
+  <text x="50" y="168" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Tecnología disponible</text>
+  <text x="50" y="188" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Habilidades del equipo</text>
+  <text x="50" y="208" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Infraestructura / hosting</text>
+  <text x="50" y="228" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Complejidad técnica</text>
+  <text x="50" y="248" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Tiempo disponible</text>
+  <!-- Result badge -->
+  <rect x="50" y="310" width="165" height="54" rx="6" fill="#1b4332"/>
+  <text x="133" y="334" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#6ee7b7" text-anchor="middle">FerreMax: ✅ Viable</text>
+  <text x="133" y="354" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6ee7b7" text-anchor="middle">Python + FastAPI + hosting</text>
+
+  <!-- Factibilidad Operativa Card -->
+  <rect x="287" y="75" width="225" height="310" rx="10" fill="#1a1429" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="287" y="75" width="225" height="44" rx="10" fill="#7c3aed"/>
+  <rect x="287" y="105" width="225" height="14" fill="#7c3aed"/>
+  <text x="400" y="101" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">👥 Operativa</text>
+  <text x="400" y="140" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#c4b5fd" text-anchor="middle">¿Pueden adoptarlo?</text>
+  <text x="305" y="168" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Disposición del cliente</text>
+  <text x="305" y="188" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Nivel técnico usuarios</text>
+  <text x="305" y="208" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Equipos disponibles</text>
+  <text x="305" y="228" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Conectividad internet</text>
+  <text x="305" y="248" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Plan de capacitación</text>
+  <rect x="305" y="310" width="181" height="54" rx="6" fill="#2d1b4e"/>
+  <text x="396" y="334" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#c4b5fd" text-anchor="middle">FerreMax: ✅ Viable</text>
+  <text x="396" y="354" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#c4b5fd" text-anchor="middle">Carlos motivado + PC en sedes</text>
+
+  <!-- Factibilidad Económica Card -->
+  <rect x="544" y="75" width="225" height="310" rx="10" fill="#1f1a0d" stroke="#d97706" stroke-width="2"/>
+  <rect x="544" y="75" width="225" height="44" rx="10" fill="#d97706"/>
+  <rect x="544" y="105" width="225" height="14" fill="#d97706"/>
+  <text x="657" y="101" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">💰 Económica</text>
+  <text x="657" y="140" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#fde68a" text-anchor="middle">¿Vale la inversión?</text>
+  <text x="562" y="168" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Costo estimado del proyecto</text>
+  <text x="562" y="188" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Ahorro de tiempo</text>
+  <text x="562" y="208" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Reducción de errores</text>
+  <text x="562" y="228" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Mejor toma de decisiones</text>
+  <text x="562" y="248" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#c9d1d9">▸ Capacidad de pago del cliente</text>
+  <rect x="562" y="310" width="181" height="54" rx="6" fill="#3b2000"/>
+  <text x="653" y="334" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="600" fill="#fde68a" text-anchor="middle">FerreMax: ✅ Viable</text>
+  <text x="653" y="354" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#fde68a" text-anchor="middle">Beneficios superan costos</text>
+
+  <!-- Conclusion box -->
+  <rect x="150" y="410" width="500" height="50" rx="8" fill="#1565C0"/>
+  <text x="400" y="432" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Conclusión: El proyecto es viable en las tres dimensiones</text>
+  <text x="400" y="451" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90caf9" text-anchor="middle">Recomendación: Proceder con el desarrollo del sistema</text>
+
+  <!-- Footer -->
+  <text x="400" y="488" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#484f58" text-anchor="middle">Semana 03 · Cadena de Formación · Tecnólogo ADSO</text>
+</svg>

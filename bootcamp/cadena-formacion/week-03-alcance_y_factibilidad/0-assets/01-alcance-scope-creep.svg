@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="38" font-family="Inter, Roboto, sans-serif" font-size="20" font-weight="700" fill="#e6edf3" text-anchor="middle">Alcance del Proyecto — In Scope vs Out of Scope</text>
+
+  <!-- Central project box -->
+  <rect x="310" y="60" width="180" height="56" rx="8" fill="#1565C0"/>
+  <text x="400" y="85" font-family="Inter, Roboto, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Proyecto de Software</text>
+  <text x="400" y="103" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#90caf9" text-anchor="middle">Versión 1</text>
+
+  <!-- IN SCOPE side label -->
+  <rect x="40" y="155" width="310" height="36" rx="6" fill="#1b4332"/>
+  <text x="195" y="178" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#6ee7b7" text-anchor="middle">✅  IN SCOPE — Dentro del Alcance</text>
+
+  <!-- IN SCOPE items -->
+  <rect x="40" y="205" width="310" height="220" rx="8" fill="#0f1f17" stroke="#2d6a4f" stroke-width="1.5"/>
+  <text x="60" y="230" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Módulo de Autenticación</text>
+  <text x="60" y="255" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Módulo de Inventario</text>
+  <text x="60" y="280" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Módulo de Clientes</text>
+  <text x="60" y="305" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Módulo de Ventas</text>
+  <text x="60" y="330" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Reportes básicos</text>
+  <text x="60" y="355" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Acceso web (sin instalación)</text>
+  <text x="60" y="380" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Manual de usuario</text>
+  <text x="60" y="405" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#6ee7b7">✓  Propuesta técnica completa</text>
+
+  <!-- OUT OF SCOPE side label -->
+  <rect x="450" y="155" width="310" height="36" rx="6" fill="#3b1f1f"/>
+  <text x="605" y="178" font-family="Inter, Roboto, sans-serif" font-size="14" font-weight="700" fill="#f87171" text-anchor="middle">⏳  OUT OF SCOPE — Fuera del Alcance</text>
+
+  <!-- OUT OF SCOPE items -->
+  <rect x="450" y="205" width="310" height="220" rx="8" fill="#1a0f0f" stroke="#7f1d1d" stroke-width="1.5"/>
+  <text x="470" y="230" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  App móvil Android/iOS</text>
+  <text x="470" y="255" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  Integración pagos en línea</text>
+  <text x="470" y="280" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  Facturación electrónica DIAN</text>
+  <text x="470" y="305" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  Módulo de contabilidad</text>
+  <text x="470" y="330" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  Gestión de proveedores</text>
+  <text x="470" y="355" font-family="Inter, Roboto, sans-serif" font-size="12" fill="#f87171">✗  Exportación a PDF/Excel</text>
+  <text x="470" y="385" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#999999">→ Posibles en Versión 2</text>
+
+  <!-- Arrow from project to in scope -->
+  <line x1="310" y1="88" x2="195" y2="155" stroke="#6ee7b7" stroke-width="1.5" stroke-dasharray="5,3"/>
+
+  <!-- Arrow from project to out of scope -->
+  <line x1="490" y1="88" x2="605" y2="155" stroke="#f87171" stroke-width="1.5" stroke-dasharray="5,3"/>
+
+  <!-- Footer note -->
+  <text x="400" y="450" font-family="Inter, Roboto, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Sin alcance documentado, el cliente puede reclamar cualquier cosa. El out of scope protege al consultor.</text>
+  <text x="400" y="470" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#484f58" text-anchor="middle">Semana 03 · Cadena de Formación · Tecnólogo ADSO</text>
+</svg>
