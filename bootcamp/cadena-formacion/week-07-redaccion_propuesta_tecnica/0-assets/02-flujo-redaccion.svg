@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="32" font-family="Inter, Roboto, sans-serif" font-size="16" font-weight="700" fill="#e6edf3" text-anchor="middle">Flujo de Redacción — Semanas anteriores → Propuesta Técnica</text>
+  <line x1="60" y1="42" x2="740" y2="42" stroke="#1565C0" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- COLUMN HEADERS -->
+  <!-- Previous weeks sources -->
+  <text x="130" y="62" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#8b949e" text-anchor="middle">SEMANAS ANTERIORES</text>
+  <text x="400" y="62" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#8b949e" text-anchor="middle">ACTIVIDAD S07</text>
+  <text x="660" y="62" font-family="Inter, Roboto, sans-serif" font-size="11" font-weight="700" fill="#8b949e" text-anchor="middle">SECCIÓN EN LA PROPUESTA</text>
+
+  <!-- VERTICAL SEPARATOR LINES -->
+  <line x1="260" y1="55" x2="260" y2="470" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="540" y1="55" x2="540" y2="470" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- ROW 1: S02 → Redactar análisis + solución → Secciones 3+4 -->
+  <!-- Source box -->
+  <rect x="30" y="72" width="200" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="89" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#93c5fd">S02 — Requisitos</text>
+  <text x="40" y="104" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Lista RF + RNF + entrevista cliente</text>
+  <!-- Arrow -->
+  <line x1="230" y1="92" x2="272" y2="92" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="269,88 278,92 269,96" fill="#30363d"/>
+  <!-- Activity box -->
+  <rect x="278" y="72" width="248" height="40" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="402" y="88" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">Redactar análisis del problema</text>
+  <text x="402" y="103" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa" text-anchor="middle">Identificar P01, P02, P03, P04</text>
+  <!-- Arrow -->
+  <line x1="526" y1="92" x2="548" y2="92" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="545,88 554,92 545,96" fill="#30363d"/>
+  <!-- Destination box -->
+  <rect x="554" y="72" width="210" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="659" y="89" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§3 Análisis del Problema</text>
+  <text x="659" y="104" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">§4 Propuesta de Solución</text>
+
+  <!-- ROW 2: S03 → Copiar y redactar alcance → Sección 5 -->
+  <rect x="30" y="128" width="200" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="145" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#93c5fd">S03 — Alcance + WBS</text>
+  <text x="40" y="160" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Módulos + fuera del alcance</text>
+  <line x1="230" y1="148" x2="272" y2="148" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="269,144 278,148 269,152" fill="#30363d"/>
+  <rect x="278" y="128" width="248" height="40" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="402" y="144" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">Integrar WBS como lista</text>
+  <text x="402" y="159" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa" text-anchor="middle">Incluye + Excluye del alcance</text>
+  <line x1="526" y1="148" x2="548" y2="148" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="545,144 554,148 545,152" fill="#30363d"/>
+  <rect x="554" y="128" width="210" height="40" rx="6" fill="#0c2d1c" stroke="#56d364" stroke-width="1"/>
+  <text x="659" y="145" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">§5 Alcance del Proyecto</text>
+  <text x="659" y="160" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364" text-anchor="middle">← Copiar de S03 con edición</text>
+
+  <!-- ROW 3: S05 → Resumir cronograma → Sección 7 -->
+  <rect x="30" y="184" width="200" height="40" rx="6" fill="#161b22" stroke="#56d364" stroke-width="1"/>
+  <text x="40" y="201" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#56d364">S05 — Cronograma</text>
+  <text x="40" y="216" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Gantt, 15 semanas, hitos</text>
+  <line x1="230" y1="204" x2="272" y2="204" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="269,200 278,204 269,208" fill="#30363d"/>
+  <rect x="278" y="184" width="248" height="40" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="402" y="200" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">Resumen: tabla de semanas</text>
+  <text x="402" y="215" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa" text-anchor="middle">+ Hitos clave + Fechas estimadas</text>
+  <line x1="526" y1="204" x2="548" y2="204" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="545,200 554,204 545,208" fill="#30363d"/>
+  <rect x="554" y="184" width="210" height="40" rx="6" fill="#0c2d1c" stroke="#56d364" stroke-width="1.5"/>
+  <text x="659" y="201" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">§7 Cronograma</text>
+  <text x="659" y="216" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364" text-anchor="middle">← Datos de S05</text>
+
+  <!-- ROW 4: S06 → Tabla ejecutiva costos → Sección 8 -->
+  <rect x="30" y="240" width="200" height="40" rx="6" fill="#161b22" stroke="#56d364" stroke-width="1"/>
+  <text x="40" y="257" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#56d364">S06 — Presupuesto</text>
+  <text x="40" y="272" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">$99,165,000 · A+B+C+D · margen</text>
+  <line x1="230" y1="260" x2="272" y2="260" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="269,256 278,260 269,264" fill="#30363d"/>
+  <rect x="278" y="240" width="248" height="40" rx="6" fill="#0d1117" stroke="#1565C0" stroke-width="1"/>
+  <text x="402" y="256" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">Tabla ejecutiva para cliente</text>
+  <text x="402" y="271" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa" text-anchor="middle">Sin tarifas internas · Total COP</text>
+  <line x1="526" y1="260" x2="548" y2="260" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="545,256 554,260 545,264" fill="#30363d"/>
+  <rect x="554" y="240" width="210" height="40" rx="6" fill="#0c2d1c" stroke="#56d364" stroke-width="1.5"/>
+  <text x="659" y="257" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#86efac" text-anchor="middle">§8 Estimación de Costos</text>
+  <text x="659" y="272" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#56d364" text-anchor="middle">← Datos de S06</text>
+
+  <!-- ROW 5: Nuevo en S07 → Resumen ejecutivo → Sección 2 -->
+  <rect x="30" y="304" width="200" height="40" rx="6" fill="#1a1505" stroke="#e6953a" stroke-width="1.5"/>
+  <text x="40" y="321" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#fde68a">⭐ NUEVO en S07</text>
+  <text x="40" y="336" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#e6953a">Todo integrado + visión de negocio</text>
+  <line x1="230" y1="324" x2="272" y2="324" stroke="#e6953a" stroke-width="1.5"/>
+  <polygon points="269,320 278,324 269,328" fill="#e6953a"/>
+  <rect x="278" y="304" width="248" height="40" rx="6" fill="#1a1505" stroke="#e6953a" stroke-width="1.5"/>
+  <text x="402" y="320" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#fde68a" text-anchor="middle">Redactar resumen ejecutivo</text>
+  <text x="402" y="335" font-family="'Courier New', monospace" font-size="9" fill="#e6953a" text-anchor="middle">4 párrafos · 200–350 palabras</text>
+  <line x1="526" y1="324" x2="548" y2="324" stroke="#e6953a" stroke-width="1.5"/>
+  <polygon points="545,320 554,324 545,328" fill="#e6953a"/>
+  <rect x="554" y="304" width="210" height="40" rx="6" fill="#1a1505" stroke="#e6953a" stroke-width="1.5"/>
+  <text x="659" y="321" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#fde68a" text-anchor="middle">§2 Resumen Ejecutivo</text>
+  <text x="659" y="336" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#e6953a" text-anchor="middle">⭐ Se escribe de último</text>
+
+  <!-- ROW 6: Nuevo → Portada+Metodología+Equipo+Supuestos → Secciones 1,6,9,10 -->
+  <rect x="30" y="364" width="200" height="40" rx="6" fill="#161b22" stroke="#7c3aed" stroke-width="1"/>
+  <text x="40" y="381" font-family="Inter, Roboto, sans-serif" font-size="10" font-weight="700" fill="#a78bfa">NUEVO en S07</text>
+  <text x="40" y="396" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#8b949e">Nuevo contenido del proyecto real</text>
+  <line x1="230" y1="384" x2="272" y2="384" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="269,380 278,384 269,388" fill="#30363d"/>
+  <rect x="278" y="364" width="248" height="40" rx="6" fill="#0d1117" stroke="#7c3aed" stroke-width="1"/>
+  <text x="402" y="380" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">Portada · Metodología · Equipo</text>
+  <text x="402" y="395" font-family="'Courier New', monospace" font-size="9" fill="#a78bfa" text-anchor="middle">Supuestos · Condiciones · Firma</text>
+  <line x1="526" y1="384" x2="548" y2="384" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="545,380 554,384 545,388" fill="#30363d"/>
+  <rect x="554" y="364" width="210" height="40" rx="6" fill="#1c1436" stroke="#7c3aed" stroke-width="1"/>
+  <text x="659" y="381" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#e6edf3" text-anchor="middle">§1 §6 §9 §10</text>
+  <text x="659" y="396" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#a78bfa" text-anchor="middle">Completan el documento</text>
+
+  <!-- Bottom note -->
+  <line x1="60" y1="420" x2="740" y2="420" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="438" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Secciones marcadas en verde ← provienen directamente de entregables anteriores (solo integrar + adaptar redacción)</text>
+  <text x="400" y="454" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sección en naranja ⭐ = resumen ejecutivo · Se escribe al final cuando todo el documento está completo</text>
+  <text x="400" y="470" font-family="Inter, Roboto, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">Cadena de Formación · Tecnólogo ADSO · Semana 7 de 9</text>
+</svg>
