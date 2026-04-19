@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_assets/bootcamp-header.svg" alt="Technical Proposal Bootcamp Zero to Hero" width="800">
+  <img src="assets/bootcamp-header.svg" alt="Technical Proposal Bootcamp Zero to Hero" width="800">
 </p>
 
 <p align="center">
@@ -259,8 +259,8 @@ This project is under the MIT License - see the [LICENSE](LICENSE) file for deta
 - [🤝 Contributing Guide](CONTRIBUTING.md)
 - [📜 Code of Conduct](CODE_OF_CONDUCT.md)
 - [🔒 Security Policy](SECURITY.md)
-- [📁 Case Study](_docs/caso-estudio/)
-- [📖 General Documentation](_docs/)
+- [📁 Case Study](docs/caso-estudio/)
+- [📖 General Documentation](docs/)
 
 ---
 
@@ -272,7 +272,7 @@ This project is under the MIT License - see the [LICENSE](LICENSE) file for deta
 <p align="center">
   <a href="bootcamp/oferta-abierta/week-01-analisis_requisitos_avanzado">Start Open Enrollment</a> •
   <a href="bootcamp/cadena-formacion/week-01-contexto_y_propuesta_tecnica">Start Training Chain</a> •
-  <a href="_docs">View Documentation</a> •
+  <a href="docs">View Documentation</a> •
   <a href="https://github.com/ergrato-dev/bc-propuesta-tecnica/issues">Report Issue</a>
 </p>
 

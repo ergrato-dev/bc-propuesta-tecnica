@@ -8,7 +8,7 @@
 **Materiales necesarios**:
 - `1-teoria/03-caso-ferremax-simulacro.md` (referencia del instructor y del presentador)
 - `plantilla-plan-presentacion-ferremax.md` (este taller)
-- La propuesta completa de FerreMax (`_docs/caso-estudio/08-propuesta-comercial-riesgos.md`)
+- La propuesta completa de FerreMax (`docs/caso-estudio/08-propuesta-comercial-riesgos.md`)
 
 ---
 
@@ -170,7 +170,7 @@ Cada aprendiz escribe en su cuaderno o documento:
 - Teoría relevante: `1-teoria/01-estructura-presentacion.md` — estructura de las 5 zonas
 - Teoría relevante: `1-teoria/02-comunicacion-ejecutiva.md` — vocabulario y manejo de objeciones
 - Datos FerreMax: `1-teoria/03-caso-ferremax-simulacro.md` — datos listos para memorizar
-- Caso completo: `_docs/caso-estudio/08-propuesta-comercial-riesgos.md`
+- Caso completo: `docs/caso-estudio/08-propuesta-comercial-riesgos.md`
 
 ---
 

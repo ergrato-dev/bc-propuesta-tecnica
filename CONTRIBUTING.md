@@ -143,7 +143,7 @@ week-XX-tema_principal/
 
 ### Caso de Estudio Ficticio
 
-- ✅ Usar **siempre** el caso definido en `_docs/caso-estudio/`
+- ✅ Usar **siempre** el caso definido en `docs/caso-estudio/`
 - ❌ No inventar casos distintos por semana — la continuidad es clave pedagógica
 
 ---
@@ -153,7 +153,7 @@ week-XX-tema_principal/
 Antes de abrir un PR verifica:
 
 - [ ] El contenido está en español (documentación y teoría)
-- [ ] Se usa el caso de estudio ficticio de `_docs/caso-estudio/` (no uno inventado)
+- [ ] Se usa el caso de estudio ficticio de `docs/caso-estudio/` (no uno inventado)
 - [ ] Las plantillas tienen instrucciones claras y ejemplos (sin secciones vacías)
 - [ ] La carpeta `solution/` NO está incluida en el PR
 - [ ] Los archivos SVG están vinculados en al menos un `.md`

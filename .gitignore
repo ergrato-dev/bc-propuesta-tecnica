@@ -50,7 +50,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # ============================================================
-# Python (scripts de utilidad en _scripts/)
+# Python (scripts de utilidad en scripts/)
 # ============================================================
 __pycache__/
 *.py[cod]

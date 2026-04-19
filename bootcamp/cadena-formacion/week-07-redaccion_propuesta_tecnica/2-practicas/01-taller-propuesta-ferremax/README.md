@@ -18,9 +18,9 @@ Antes de comenzar, ten a la mano:
 
 - `1-teoria/03-secciones-obligatorias.md` — Referencia de qué va en cada sección
 - `1-teoria/04-caso-ferremax-propuesta.md` — Borrador guía completo del caso
-- `_docs/caso-estudio/01-contexto-cliente.md` — Contexto base de FerreMax
-- `_docs/caso-estudio/05-cronograma.md` — Cronograma de S05 (15 semanas)
-- `_docs/caso-estudio/06-presupuesto.md` — Presupuesto de S06 ($99,165,000)
+- `docs/caso-estudio/01-contexto-cliente.md` — Contexto base de FerreMax
+- `docs/caso-estudio/05-cronograma.md` — Cronograma de S05 (15 semanas)
+- `docs/caso-estudio/06-presupuesto.md` — Presupuesto de S06 ($99,165,000)
 - Archivo de trabajo: `plantilla-propuesta-ferremax.md` ← **edita este archivo**
 
 ---
@@ -83,7 +83,7 @@ En este paso debes redactar las tres subsecciones del análisis del problema.
 | Registro de ventas | Facturas talonario en papel | <!-- Completar → ¿qué problema genera? --> |
 | Reportes gerenciales | Construidos manualmente cada semana | <!-- Completar → ¿cuánto tiempo pierde el gerente? --> |
 
-> 💡 Tip: Los datos de este problema están en `_docs/caso-estudio/01-contexto-cliente.md`.
+> 💡 Tip: Los datos de este problema están en `docs/caso-estudio/01-contexto-cliente.md`.
 
 ---
 

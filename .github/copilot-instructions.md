@@ -120,9 +120,9 @@ bootcamp/
 
 ### 📁 Carpetas Raíz
 
-- **`_assets/`**: Recursos visuales globales (logos, headers SVG, imágenes del caso de estudio)
-- **`_docs/`**: Documentación general que aplica a ambas versiones (incluyendo el caso de estudio)
-- **`_scripts/`**: Scripts de automatización y utilidades
+- **`assets/`**: Recursos visuales globales (logos, headers SVG, imágenes del caso de estudio)
+- **`docs/`**: Documentación general que aplica a ambas versiones (incluyendo el caso de estudio)
+- **`scripts/`**: Scripts de automatización y utilidades
 - **`bootcamp/`**: Contenido semanal del bootcamp (dos versiones separadas)
 
 ---
@@ -422,7 +422,7 @@ Cada semana incluye **tres tipos de evidencias**:
 
 ### Caso de Estudio Ficticio
 
-El caso ficticio compartido es un **proyecto de mediana complejidad contextualizado en Colombia**. Está documentado en `_docs/caso-estudio/` y debe:
+El caso ficticio compartido es un **proyecto de mediana complejidad contextualizado en Colombia**. Está documentado en `docs/caso-estudio/` y debe:
 
 - Ser realista para el nivel del aprendiz (CRUD + reglas de negocio básicas, no arquitectura compleja)
 - Reflejar necesidades reales de PYMES colombianas
@@ -459,7 +459,7 @@ Cuando trabajes en este proyecto:
    - ❌ **NUNCA mezclar el nivel de ambas versiones en un mismo archivo**
 
 2. **Caso de estudio ficticio**
-   - ✅ Usar **siempre** el caso definido en `_docs/caso-estudio/` para teoría y prácticas
+   - ✅ Usar **siempre** el caso definido en `docs/caso-estudio/` para teoría y prácticas
    - ❌ **NUNCA inventar un caso diferente por semana** — la continuidad es clave pedagógica
    - ✅ El caso evoluciona semana a semana: cada semana agrega documentos nuevos al mismo proyecto ficticio
 
@@ -593,8 +593,8 @@ Debe incluir:
 
 - **Repositorio**: https://github.com/ergrato-dev/bc-propuesta-tecnica
 - **Referencia del proyecto**: https://github.com/ergrato-dev/bc-fastapi
-- **Documentación general**: [\_docs/README.md](_docs/README.md)
-- **Caso de estudio**: [\_docs/caso-estudio/](_docs/caso-estudio/)
+- **Documentación general**: [\docs/README.md](docs/README.md)
+- **Caso de estudio**: [\docs/caso-estudio/](docs/caso-estudio/)
 - **Oferta Abierta — Semana 1**: [bootcamp/oferta-abierta/week-01-analisis_requisitos_avanzado/README.md](bootcamp/oferta-abierta/week-01-analisis_requisitos_avanzado/README.md)
 - **Cadena de Formación — Semana 1**: [bootcamp/cadena-formacion/week-01-contexto_y_propuesta_tecnica/README.md](bootcamp/cadena-formacion/week-01-contexto_y_propuesta_tecnica/README.md)
 
@@ -615,7 +615,7 @@ Cuando crees contenido para una nueva semana (en cualquiera de las dos versiones
 - [ ] Verificar coherencia con semanas anteriores (entregables encadenados)
 - [ ] Verificar que el nivel de profundidad corresponde a la versión (OA vs CF)
 - [ ] Verificar que NO hay secciones vacías sin guía en plantillas del aprendiz
-- [ ] Verificar que el caso de estudio ficticio es consistente con `_docs/caso-estudio/`
+- [ ] Verificar que el caso de estudio ficticio es consistente con `docs/caso-estudio/`
 
 ---
 

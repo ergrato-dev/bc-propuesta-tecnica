@@ -41,7 +41,7 @@
 
 - **Descripción**: Hoja de cálculo con estructura A+B+C+contingencia+margen, adaptable al contexto colombiano.
 - **Crear copia gratuita**: En Google Sheets → Archivo → Nueva hoja desde plantilla → buscar "IT Project Budget"
-- **Alternativa LibreOffice Calc**: Disponible en `_scripts/` de este repositorio (próximamente)
+- **Alternativa LibreOffice Calc**: Disponible en `scripts/` de este repositorio (próximamente)
 
 ---
 

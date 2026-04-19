@@ -217,4 +217,4 @@ Sistema de Gestión FerreMax S.A.S.
 ---
 
 *Este documento es el caso de referencia para la Semana 3 de Cadena de Formación.*
-*Ver también: [`_docs/caso-estudio/03-alcance-wbs.md`](../../../../_docs/caso-estudio/03-alcance-wbs.md)*
+*Ver también: [`docs/caso-estudio/03-alcance-wbs.md`](../../../../docs/caso-estudio/03-alcance-wbs.md)*

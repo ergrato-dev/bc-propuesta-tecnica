@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_assets/bootcamp-header.svg" alt="Bootcamp Propuesta Técnica Zero to Hero" width="800">
+  <img src="assets/bootcamp-header.svg" alt="Bootcamp Propuesta Técnica Zero to Hero" width="800">
 </p>
 
 <p align="center">
@@ -259,8 +259,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [🤝 Guía de Contribución](CONTRIBUTING.md)
 - [📜 Código de Conducta](CODE_OF_CONDUCT.md)
 - [🔒 Política de Seguridad](SECURITY.md)
-- [📁 Caso de Estudio](_docs/caso-estudio/)
-- [📖 Documentación General](_docs/)
+- [📁 Caso de Estudio](docs/caso-estudio/)
+- [📖 Documentación General](docs/)
 
 ---
 
@@ -272,7 +272,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 <p align="center">
   <a href="bootcamp/oferta-abierta/week-01-analisis_requisitos_avanzado">Comenzar Oferta Abierta</a> •
   <a href="bootcamp/cadena-formacion/week-01-contexto_y_propuesta_tecnica">Comenzar Cadena de Formación</a> •
-  <a href="_docs">Ver Documentación</a> •
+  <a href="docs">Ver Documentación</a> •
   <a href="https://github.com/ergrato-dev/bc-propuesta-tecnica/issues">Reportar Issue</a>
 </p>
 
